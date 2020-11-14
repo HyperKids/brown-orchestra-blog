@@ -1,0 +1,11 @@
+{
+  "name": "brown-orchestra-blog",
+  "version": "1.0.0",
+  "description": "Posts from the Brown University Orchestra community & administrative team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Kim",
+  "license": "UNLICENSED"
+}
