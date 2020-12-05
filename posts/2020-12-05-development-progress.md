@@ -1,5 +1,5 @@
 ---
-title: November Updates
+title: Development Progress
 subtitle: Your monthly orchestra updates
 author: IsaacKim
 topic: Announcements
