@@ -11,7 +11,9 @@ subtitle: Your Post Subtitle
 author: FirstLast
 topic: Announcements
 date: YYYY-MM-DD
+thumbnail: https://example.com/image.png
 ---
+**The title and date is required**. Everything else can be omitted, although you should do your best to fill everything in.
 ```
 ### 3. Appropriately name your file
 Our convention is `YYYY-MM-DD-post-title`. Your post will be available at `/news/YYYY-MM-DD/post-title`.
