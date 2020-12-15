@@ -16,8 +16,8 @@ image:
   caption: This is an example image caption.
   attr: First Last/Organization
 ---
-**The title and date is required**. Everything else can be omitted, although you should do your best to fill everything in.
 ```
+**The title and date is required**. Everything else can be omitted, although you should do your best to fill everything in.
 ### 3. Appropriately name your file
 Our convention is `YYYY-MM-DD-post-title`. Your post will be available at `/news/YYYY-MM-DD/post-title`.
 ### 4. Review your work
