@@ -1,9 +1,9 @@
 ---
 title: A Letter from the 2019-2020 President
-subtitle: A look back on the previous year
+subtitle: Looking forward to new heights
 author: RainbowChen
 topic: Announcements
-date: 2019-04-28
+date: 2018-06-22
 image:
   url: https://www.brown.edu/Departments/Music/sites/orchestra/images/spring2020/rainbow_michael.jpg
   caption: Michael Tu, Board Vice President (left) and Rainbow Chen, Board President (right) pose for a photo before rehearsal.
