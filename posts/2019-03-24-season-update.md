@@ -5,7 +5,7 @@ author: MarkSeto
 topic: Announcements
 date: 2019-03-24
 image:
-  url: /2020-12/jennifer-koh.jpg
+  url: /images/2020-12/jennifer-koh.jpg
   caption: Jennifer Koh performs with the Brown University Orchestra.
   attr: Brown University Orchestra
 ---
