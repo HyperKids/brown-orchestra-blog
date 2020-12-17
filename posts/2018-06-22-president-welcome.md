@@ -5,7 +5,7 @@ author: RainbowChen
 topic: Announcements
 date: 2018-06-22
 image:
-  url: https://www.brown.edu/Departments/Music/sites/orchestra/images/spring2020/rainbow_michael.jpg
+  url: /2020-12/rainbow_michael.jpg
   caption: Michael Tu, Board Vice President (left) and Rainbow Chen, Board President (right) pose for a photo before rehearsal.
   attr: Xinru Li/Brown University Orchestra
 ---
