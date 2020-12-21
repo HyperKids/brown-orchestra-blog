@@ -1,0 +1,22 @@
+backend:
+  repo: HyperKids/brown-orchestra-blog
+  name: github
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "images/uploads"
+public_folder: "images/uploads"
+collections:
+  - name: "news"
+    label: "News"
+    folder: "posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Topic", name: "topic", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image.url", widget: "image"}
+      - {label: "Image Caption", name: "image.caption", widget: "string"}
+      - {label: "Image Attribution", name: "image.attr", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
