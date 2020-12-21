@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  repo: HyperKids/brown-orchestra-blog
+  name: github
   branch: master
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
