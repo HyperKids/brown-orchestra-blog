@@ -1,7 +1,7 @@
 ---
 title: Development Progress
 subtitle: Your monthly orchestra updates
-author: IsaacKim
+author: Isaac Kim
 topic: Announcements
 date: 2020-12-05
 image:

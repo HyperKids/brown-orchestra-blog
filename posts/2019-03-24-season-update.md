@@ -1,7 +1,7 @@
 ---
 title: Update on the 2019-2020 Season
 subtitle: Looking forward to new heights
-author: MarkSeto
+author: Mark Seto
 topic: Announcements
 date: 2019-03-24
 image:

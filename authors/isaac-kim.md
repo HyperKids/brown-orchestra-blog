@@ -1,5 +1,6 @@
 ---
 name: Isaac Kim
+uid: isaackim1
 email: isaac_y_kim@brown.edu
 browndirectory: 2a9cde89-1107-49ea-b0d1-26a35657a1f9
 avatar: URL
