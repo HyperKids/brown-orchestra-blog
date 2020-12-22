@@ -2,7 +2,7 @@
 title: Testing the functionality of the Online Post Editor
 author: isaackim1
 topic: Announcements
-date: 2020-12-22T03:02:37.441Z
+date: 2020-12-21T16:00:00.000Z
 image:
   url: images/uploads/abstract-blue.jpg
   caption: Abstract blue image.
@@ -16,4 +16,4 @@ Sirloin alcatra pig kielbasa, spare ribs buffalo turducken frankfurter meatball 
 
 Burgdoggen beef ribs tongue flank venison. Filet mignon shankle beef meatloaf turkey cupim rump burgdoggen frankfurter pork chop sausage bresaola. Chuck prosciutto pork loin bresaola. Short loin boudin t-bone shankle pastrami pork belly.
 
-Doner ham salami, pork loin chislic alcatra ham hock turkey cupim. Shank sirloin brisket pork belly swine strip steak pastrami burgdoggen meatloaf. Pancetta cow meatloaf pastrami ham hock spare ribs beef ribs shankle ham brisket picanha. Bresaola ham buffalo, filet mignon pork chop beef ribs capicola. Shoulder meatball tail chicken shank ham hock. Shoulder pancetta sausage ham short ribs fatback doner venison ham hock pastrami turkey cow ball tip. Alcatra spare ribs tongue filet mignon.
+Doner ham salami, pork loin chislic alcatra ham hock turkey cupim. Shank sirloin brisket pork belly swine strip steak pastrami burgdoggen meatloaf. Pancetta cow meatloaf pastrami ham hock spare ribs beef ribs shankle ham brisket picanha. Bresaola ham buffalo, filet mignon pork chop beef ribs capicola. Shoulder meatball tail chicken shank ham hock. Shoulder pancetta sausage ham short ribs fatback doner venison ham hock pastrami turkey cow ball tip. Alcatra spare ribs tongue filet mignon. ★
