@@ -31,9 +31,9 @@ collections:
     slug: "{{name}}"
     fields:
       - {label: "Full Name", name: "name", widget: "string"}
-      - {label: "Unique ID (firstlast1)", name: "uid", widget: "string"}
+      - {label: "Unique ID", name: "uid", widget: "string", description: "Format this field as firstlast1 (eg. for Isaac Kim, format as isaackim1). If firstlast1 already exists, just increment the last number by one (eg. firstlast2)."}
       - {label: "Email", name: "email", widget: "string"}
-      - {label: "Brown Directory UUID", name: "browndirectory", widget: "string"}
+      - {label: "Brown Directory UUID", name: "browndirectory", widget: "string", description: "Go to https://directory.brown.edu, search for yourself, click the permalink in your entry, and retrieve the string in the URL. Should look like 2a9cde89-1107-49ea-b0d1-26a35657a1f9."}
       - {label: "Avatar", name: "avatar", widget: "image", required: false}
       - label: "Bios"
         name: "bio"
