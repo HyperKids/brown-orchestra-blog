@@ -2,7 +2,7 @@
 title: Testing the functionality of the Online Post Editor
 author: isaackim1
 topic: Announcements
-date: 2020-12-21T16:00:00.000Z
+date: 2020-12-22
 image:
   url: images/uploads/abstract-blue.jpg
   caption: Abstract blue image.
