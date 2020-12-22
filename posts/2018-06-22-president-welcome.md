@@ -1,7 +1,7 @@
 ---
 title: A Letter from the 2019-2020 President
 subtitle: Looking forward to new heights
-author: Rainbow Chen
+author: rainbowchen1
 topic: Announcements
 date: 2018-06-22
 image:
