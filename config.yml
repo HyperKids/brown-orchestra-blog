@@ -1,6 +1,5 @@
 backend:
-  repo: HyperKids/brown-orchestra-blog
-  name: github
+  name: git-gateway
   branch: master
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
@@ -13,10 +12,30 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Author", name: "author", widget: "relation", collection: "authors", value_field: "name", search_fields: "name"}
       - {label: "Topic", name: "topic", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image.url", widget: "image"}
-      - {label: "Image Caption", name: "image.caption", widget: "string"}
-      - {label: "Image Attribution", name: "image.attr", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+        - {label: "Cover Image", name: "url", widget: "image", required: false}
+        - {label: "Image Caption", name: "caption", widget: "string", required: false}
+        - {label: "Image Attribution", name: "attr", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "authors"
+    label: "Authors"
+    folder: "authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Full Name", name: "name", widget: "string"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "Brown Directory UUID", name: "browndirectory", widget: "string"}
+      - {label: "Avatar", name: "avatar", widget: "image", required: false}
+      - label: "Bios"
+        name: "bio"
+        widget: "object"
+        fields:
+        - {label: "Biography (Short)", name: "short", widget: "string", required: false}
+        - {label: "Biography (Long)", name: "long", widget: "string", required: false}
