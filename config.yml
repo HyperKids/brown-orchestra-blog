@@ -31,6 +31,7 @@ collections:
     slug: "{{name}}"
     fields:
       - {label: "Full Name", name: "name", widget: "string"}
+      - {label: "Unique ID (firstlast1)", name: "uid", widget: "string"}
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Brown Directory UUID", name: "browndirectory", widget: "string"}
       - {label: "Avatar", name: "avatar", widget: "image", required: false}
