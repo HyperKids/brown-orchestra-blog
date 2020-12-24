@@ -1,5 +1,6 @@
 ---
 title: Testing the functionality of the Online Post Editor
+subtitle: A quick test
 author: isaackim1
 topic: Announcements
 date: 2020-12-22
