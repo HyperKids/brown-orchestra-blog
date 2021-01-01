@@ -52,10 +52,7 @@ collections:
     fields:
       - label: "Season Start Year (eg 2020-2021 should be 2020)"
         name: "year"
-        widget: "number"
-        value_type: "int"
-        min: 1764
-        max: 3000
+        widget: "string"
       - label: "Concerts"
         name: "concerts"
         widget: "list"
