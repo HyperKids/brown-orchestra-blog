@@ -70,11 +70,11 @@ collections:
           - label: "Concert Locations"
             name: "locations"
             widget: "list"
-            field: {label: "Location", widget: "string"}
+            field: {label: "Location", name: "location", widget: "string"}
           - label: "Concert Dates"
             name: "dates"
             widget: "list"
-            field: {label: "Date", widget: "datetime", time_format: false, format: "YYYY-MM-DD", picker_utc: true}
+            field: {label: "Date", name: "date", widget: "datetime", time_format: false, format: "YYYY-MM-DD", picker_utc: true}
           - label: "Pieces"
             name: "pieces"
             widget: "list"
@@ -93,5 +93,5 @@ collections:
                 name: "extra"
                 widget: "list"
                 required: false
-                field: {label: "Extra Info", widget: "string"}
+                field: {label: "Extra Info", name: "line", widget: "string"}
       
