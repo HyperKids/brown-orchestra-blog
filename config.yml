@@ -43,3 +43,64 @@ collections:
         fields:
         - {label: "Biography (Short)", name: "short", widget: "string", required: false}
         - {label: "Biography (Long)", name: "long", widget: "string", required: false}
+  - name: "past-seasons"
+    label: "Past Seasons"
+    folder: "past-seasons"
+    description: "Program database of the prevous seasons of the Brown University Orchestra"
+    create: true
+    slug: "{{year}}"
+    fields:
+      - label: "Season Start Year (eg 2020-2021 should be 2020)
+        name: "year"
+        widget: "number"
+        value_type: "int"
+        min: "1764"
+        max: "3000"
+      - label: "Concerts"
+        name: "concerts"
+        widget: "list"
+        fields:
+          - label: "Concert Title"
+            name: "title"
+            widget: "string"
+          - label: "Conductor"
+            name: "conductor"
+            widget: "string"
+            required: false
+          - label: "Concert Locations"
+            name: "locations"
+            widget: "list"
+            field:
+              - label: "Location"
+                widget: "string" # check this later
+          - label: "Concert Dates"
+            name: "dates"
+            widget: "list"
+            field:
+              - label: "Date"
+                widget: "datetime"
+                time_format: false
+                format: "YYYY-MM-DD"
+                picker_utc: true
+          - label: "Pieces"
+            name: "pieces"
+            widget: "list"
+            fields:
+              - label: "Piece Title"
+                name: "title"
+                widget: "string"
+              - label: "Composer"
+                name: "composer"
+                widget: "string"
+              - label: "Piece title italicized?"
+                name: "italicized"
+                widget: "boolean"
+                default: true
+              - label: "Extra Information"
+                name: "extra"
+                widget: "list"
+                required: false
+                field:
+                  - label: "Extra Info"
+                    widget: "string"
+      
