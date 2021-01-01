@@ -54,8 +54,8 @@ collections:
         name: "year"
         widget: "number"
         value_type: "int"
-        min: "1764"
-        max: "3000"
+        min: 1764
+        max: 3000
       - label: "Concerts"
         name: "concerts"
         widget: "list"
@@ -71,17 +71,12 @@ collections:
             name: "locations"
             widget: "list"
             field:
-              - label: "Location"
-                widget: "string" # check this later
+              - {label: "Location", widget: "string"}
           - label: "Concert Dates"
             name: "dates"
             widget: "list"
             field:
-              - label: "Date"
-                widget: "datetime"
-                time_format: false
-                format: "YYYY-MM-DD"
-                picker_utc: true
+              - {label: "Date", widget: "datetime", time_format: false, format: "YYYY-MM-DD", picker_utc: true}
           - label: "Pieces"
             name: "pieces"
             widget: "list"
@@ -101,6 +96,5 @@ collections:
                 widget: "list"
                 required: false
                 field:
-                  - label: "Extra Info"
-                    widget: "string"
+                  - {label: "Extra Info", widget: "string"}
       
