@@ -14,7 +14,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Author", name: "author", widget: "relation", collection: "authors", value_field: "uid", search_fields: ["name", "uid"]}
+      - {label: "Author", name: "author", widget: "relation", collection: "authors", value_field: "uid", search_fields: ["name", "uid"], hint: "If you can't find your Author UID in here, go back and create one in the \"Authors\" tab."}
       - {label: "Topic", name: "topic", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime", time_format: false, format: "YYYY-MM-DD", picker_utc: true}
       - label: "Image"
@@ -28,21 +28,21 @@ collections:
   - name: "authors"
     label: "Authors"
     folder: "authors"
-    description: 'List of post authors. For "Unique ID", format the field as firstlast1 (eg. for Isaac Kim, format as isaackim1). If firstlast1 already exists as another person shares your name, just increment the last number by one (eg. firstlast2). To get your Brown Directory UID, go to https://directory.brown.edu, search for yourself, click the permalink in your entry, and retrieve the string in the URL. It should look like 2a9cde89-1107-49ea-b0d1-26a35657a1f9.'
+    description: 'List of post authors.'
     create: true
     slug: "{{uid}}"
     fields:
       - {label: "Full Name", name: "name", widget: "string"}
-      - {label: "Unique ID", name: "uid", widget: "string"}
+      - {label: "Unique ID", name: "uid", widget: "string", hint: "Format this field as firstlast1 (eg. for Isaac Kim, format as isaackim1). If firstlast1 already exists as another person shares your name, just increment the last number by one (eg. firstlast2)."}
       - {label: "Email", name: "email", widget: "string"}
-      - {label: "Brown Directory UUID", name: "browndirectory", widget: "string"}
+      - {label: "Brown Directory UUID", name: "browndirectory", widget: "string", hint: 'To get your Brown Directory UID, go to https://directory.brown.edu, search for yourself, click the permalink in your entry, and retrieve the string in the URL. It should look like 2a9cde89-1107-49ea-b0d1-26a35657a1f9.'}
       - {label: "Avatar", name: "avatar", widget: "image", required: false}
       - label: "Bios"
         name: "bio"
         widget: "object"
         fields:
-        - {label: "Biography (Short)", name: "short", widget: "string", required: false}
-        - {label: "Biography (Long)", name: "long", widget: "string", required: false}
+        - {label: "Biography (Short)", name: "short", widget: "string", required: false, hint: "Make this field around two to three sentences long."}
+        - {label: "Biography (Long)", name: "long", widget: "string", required: false, hint: "Make this field around three to five sentences long."}
   - name: "past-seasons"
     label: "Past Seasons"
     folder: "past-seasons"
@@ -50,9 +50,11 @@ collections:
     create: true
     slug: "{{fields.year}}"
     fields:
-      - label: "Season Start Year (eg 2020-2021 should be 2020)"
+      - label: "Season Start Year"
         name: "year"
         widget: "string"
+        hint: "For example, the 2020-2021 year should be just 2020."
+        pattern: ['\d\d\d\d', "Must be a 4-digit year"]
       - label: "Concerts"
         name: "concerts"
         widget: "list"
@@ -64,6 +66,7 @@ collections:
             name: "subtitle"
             widget: "list"
             required: false
+            hint: "Most commonly, the conductor name goes here."
             field: {label: "Subtitle Line", name: "line", widget: "string"}
           - label: "Concert Locations"
             name: "locations"
