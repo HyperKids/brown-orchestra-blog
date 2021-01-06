@@ -67,14 +67,17 @@ collections:
             widget: "list"
             required: false
             hint: "Most commonly, the conductor name goes here."
+            summary: "{{fields.line}}"
             field: {label: "Subtitle Line", name: "line", widget: "string"}
           - label: "Concert Locations"
             name: "locations"
             widget: "list"
+            summary: "{{fields.location}}"
             field: {label: "Location", name: "location", widget: "string"}
           - label: "Concert Dates"
             name: "dates"
             widget: "list"
+            summary: "{{fields.date}}"
             field: {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm A"}
           - label: "Pieces"
             name: "pieces"
@@ -90,5 +93,6 @@ collections:
                 name: "extra"
                 widget: "list"
                 required: false
+                summary: "{{fields.line}}"
                 field: {label: "Extra Info", name: "line", widget: "string"}
       
