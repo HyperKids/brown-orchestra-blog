@@ -60,10 +60,11 @@ collections:
           - label: "Concert Title"
             name: "title"
             widget: "string"
-          - label: "Conductor"
-            name: "conductor"
-            widget: "string"
+          - label: "Subtitle"
+            name: "subtitle"
+            widget: "list"
             required: false
+            field: {label: "Subtitle Line", name: "line", widget: "string"}
           - label: "Concert Locations"
             name: "locations"
             widget: "list"
