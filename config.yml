@@ -82,10 +82,6 @@ collections:
               - label: "Composer"
                 name: "composer"
                 widget: "string"
-              - label: "Piece title italicized?"
-                name: "italicized"
-                widget: "boolean"
-                default: true
               - label: "Extra Information"
                 name: "extra"
                 widget: "list"
