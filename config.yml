@@ -10,7 +10,7 @@ collections:
     label: "News"
     folder: "posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{date}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
@@ -30,7 +30,7 @@ collections:
     folder: "authors"
     description: 'List of post authors. For "Unique ID", format the field as firstlast1 (eg. for Isaac Kim, format as isaackim1). If firstlast1 already exists as another person shares your name, just increment the last number by one (eg. firstlast2). To get your Brown Directory UID, go to https://directory.brown.edu, search for yourself, click the permalink in your entry, and retrieve the string in the URL. It should look like 2a9cde89-1107-49ea-b0d1-26a35657a1f9.'
     create: true
-    slug: "{{name}}"
+    slug: "{{uid}}"
     fields:
       - {label: "Full Name", name: "name", widget: "string"}
       - {label: "Unique ID", name: "uid", widget: "string"}
@@ -48,7 +48,7 @@ collections:
     folder: "past-seasons"
     description: "Program database of the prevous seasons of the Brown University Orchestra"
     create: true
-    slug: "{{year}}"
+    slug: "{{fields.year}}"
     fields:
       - label: "Season Start Year (eg 2020-2021 should be 2020)"
         name: "year"
