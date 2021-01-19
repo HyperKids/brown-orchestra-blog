@@ -2,7 +2,8 @@
 data:
   - logo: true
     title: The Brown University Orchestra is back!
-    subtitle: "The Brown University Orchestra "
+    subtitle: The Brown University Orchestra will be performing virtually during the
+      Spring 2021 season. Learn more in our latest announcement.
     alt: We'll be performing virtual concerts this semester! Read the recent
       announcement to learn more.
     imagesrc: /images/buo-1.jpg
