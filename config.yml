@@ -102,7 +102,7 @@ collections:
     create: false
     fields:
       - label: "Slides"
-        name: "slides"
+        name: "data"
         widget: "list"
         fields:
           - label: "Slide Title"

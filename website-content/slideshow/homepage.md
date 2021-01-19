@@ -1,5 +1,5 @@
 ---
-slides:
+data:
   - logo: true
     title: The Brown University Orchestra is back!
     subtitle: "The Brown University Orchestra "
