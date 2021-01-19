@@ -95,4 +95,36 @@ collections:
                 required: false
                 summary: "{{fields.line}}"
                 field: {label: "Extra Info", name: "line", widget: "string"}
-      
+  - name: "slideshow"
+    label: "Home Page Slideshow"
+    folder: "/website-content/slideshow"
+    description: "Slideshow on the homepage"
+    create: false
+    fields:
+      - label: "Slides"
+        name: "slides"
+        widget: "list"
+        fields:
+          - label: "Slide Title"
+            name: "title"
+            widget: "string"
+          - label: "Slide Subtitle"
+            name: "subtitle"
+            widget: "string"
+          - label: "Slide Image"
+            name: "imagesrc"
+            widget: "image"
+          - label: "Link"
+            name: "link"
+            widget: "string"
+            hint: "Will add a hyperlink to the title to this link."
+            required: false
+          - label: "Image Description"
+            name: "alt"
+            widget: "string"
+            hint: "This is used for accessibility - screen readers will read it out loud. Keep it short!"
+          - label: "Logo"
+            name: "logo"
+            widget: "boolean"
+            default: true
+            hint: "This toggle controlls whether the BUO logo should be shown on the bottom right corner. Leave it on if you're not sure what to do."
