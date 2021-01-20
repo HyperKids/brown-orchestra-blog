@@ -100,6 +100,7 @@ collections:
     folder: "/website-content/slideshow"
     description: "Slideshow on the homepage"
     create: false
+    slug: "Homepage Slides"
     fields:
       - label: "Slides"
         name: "data"
@@ -128,3 +129,24 @@ collections:
             widget: "boolean"
             default: true
             hint: "This toggle controlls whether the BUO logo should be shown on the bottom right corner. Leave it on if you're not sure what to do."
+  - name: "content"
+    label: "Website Content"
+    folder: "/website-content/content"
+    create: true
+    slug: "{{slug}}"
+    extension: mdx
+    format: frontmatter
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Author", name: "author", widget: "relation", collection: "authors", value_field: "uid", search_fields: ["name", "uid"], hint: "If you can't find your Author UID in here, go back and create one in the \"Authors\" tab."}
+      - {label: "Topic", name: "topic", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", time_format: false, format: "YYYY-MM-DD", picker_utc: true}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+        - {label: "Cover Image", name: "url", widget: "image", required: false}
+        - {label: "Image Caption", name: "caption", widget: "string", required: false}
+        - {label: "Image Attribution", name: "attr", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
