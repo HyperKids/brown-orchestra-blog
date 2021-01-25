@@ -104,7 +104,7 @@ collections:
     fields:
       - label: "File Name"
         name: "filename"
-        widget: "hidden"
+        widget: "string"
       - label: "Slides"
         name: "data"
         widget: "list"
@@ -151,7 +151,7 @@ collections:
     fields:
       - label: "File Name"
         name: "filename"
-        widget: "hidden"
+        widget: "string"
       - label: "Text Boxes"
         name: "data"
         widget: "list"
