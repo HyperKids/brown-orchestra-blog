@@ -139,3 +139,35 @@ collections:
     fields:
       - {label: "File Name", name: "filename", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "textbox"
+    label: "Home Page Textbox"
+    folder: "/website-content/textbox"
+    description: "Text box on the homepage"
+    create: false
+    slug: "homepage"
+    fields:
+      - label: "Text Boxes"
+        name: "data"
+        widget: "list"
+        min: 0
+        required: false
+        fields:
+          - label: "Textbox Title"
+            name: "title"
+            widget: "string"
+          - label: "Textbox Text"
+            name: "body"
+            widget: "text"
+          - label: "Button"
+            name: "button"
+            widget: "list"
+            min: 0
+            max: 1
+            required: false
+            fields:
+              - label: "Button Title →"
+                name: "text"
+                widget: "string"
+              - label: "Button Link"
+                name: "href"
+                widget: "string"
