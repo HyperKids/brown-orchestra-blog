@@ -100,8 +100,11 @@ collections:
     folder: "/website-content/slideshow"
     description: "Slideshow on the homepage"
     create: false
-    slug: "Homepage Slides"
+    slug: "{{filename}}"
     fields:
+      - label: "File Name"
+        name: "filename"
+        widget: "hidden"
       - label: "Slides"
         name: "data"
         widget: "list"
@@ -144,8 +147,11 @@ collections:
     folder: "/website-content/textbox"
     description: "Text box on the homepage"
     create: false
-    slug: "homepage"
+    slug: "{{filename}}"
     fields:
+      - label: "File Name"
+        name: "filename"
+        widget: "hidden"
       - label: "Text Boxes"
         name: "data"
         widget: "list"
