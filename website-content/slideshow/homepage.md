@@ -1,5 +1,5 @@
 ---
-filename: Homepage Slideshow
+filename: "Homepage Slideshow"
 data:
   - logo: true
     title: The Brown University Orchestra is back!
