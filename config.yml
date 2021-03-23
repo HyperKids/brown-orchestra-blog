@@ -186,10 +186,8 @@ collections:
     fields:
       - label: "Year"
         name: "year"
-        widget: "datetime"
-        format: "YYYY"
-        date_format: "YYYY"
-        time_format: false
+        widget: "string"
+        pattern: ['\d\d\d\d', "Must be a 4-digit year"]
       - label: "Videos"
         name: "videos"
         widget: "list"
