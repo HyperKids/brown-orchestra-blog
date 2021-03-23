@@ -188,6 +188,8 @@ collections:
         name: "year"
         widget: "datetime"
         format: "YYYY"
+        date_format: "YYYY"
+        time_format: false
       - label: "Videos"
         name: "videos"
         widget: "list"
