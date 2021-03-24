@@ -1,6 +1,6 @@
 ---
 title: "Variations: Musical Journeys at Brown University"
-subtitle: Featuring orchestra members of the class of '20
+subtitle: Featuring orchestra members from the class of '20
 author: michaeltu1
 topic: Announcements
 date: 2020-03-13
