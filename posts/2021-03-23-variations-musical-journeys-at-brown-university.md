@@ -2,7 +2,7 @@
 title: "Variations: Musical Journeys at Brown University"
 subtitle: Featuring orchestra members of the class of '20
 author: michaeltu1
-topic: Anouncements
+topic: Announcements
 date: 2021-03-23
 image:
   url: images/uploads/neil-goh.png
