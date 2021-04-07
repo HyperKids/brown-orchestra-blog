@@ -1,9 +1,12 @@
 ---
-filename: "Homepage Textbox"
+filename: Homepage Textbox
 data:
-  - title: "Updates about the 2020-2021 Season"
-    body: "In order to comply with Brown's guidelines on in-person gatherings, the Brown University Orchestra will explore chamber orchestra repertoire during Spring 2021 (19 students maximum at a time, strings and percussion only)."
+  - title: Updates about the 2020-2021 Season
+    body: In order to comply with Brown's guidelines on in-person gatherings, the
+      Brown University Orchestra will explore chamber orchestra repertoire
+      during Spring 2021 (19 students maximum at a time, strings and percussion
+      only).
     button:
-    - text: "Learn More →"
-      href: "/about"
+      - text: Learn More →
+        href: /news/2021-01-13/spring-2021-ensemble-and-audition-information
 ---
