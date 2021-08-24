@@ -1,11 +1,10 @@
 ---
 filename: Homepage Textbox
 data:
-  - title: Spring 2021 Youtube Premiere
-    body: Join us for a virtual evening of classical music and a tribute to this
-      year's graduates and more. Immediately following the premiere will be a
-      meet-and-greet with the students.
+  - title: Fall 2021 Audition Information
+    body: For audition information for the 2021-2022 academic year, please view the
+      auditions page or click below.
     button:
       - text: Learn More →
-        href: /events
+        href: /audition
 ---
