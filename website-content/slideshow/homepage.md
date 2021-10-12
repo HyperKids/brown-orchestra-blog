@@ -1,12 +1,12 @@
 ---
-filename: "Homepage Slideshow"
+filename: Homepage Slideshow
 data:
   - logo: true
-    title: The Brown University Orchestra is back!
-    subtitle: The Brown University Orchestra will be performing virtually during the
-      Spring 2021 season. Learn more in our latest announcement.
-    alt: We'll be performing virtual concerts this semester! Read the recent
-      announcement to learn more.
+    title: Family Weekend Concerts
+    subtitle: The Brown University Orchestra has two upcoming concerts. Learn more
+      in our latest announcements.
+    alt: Concerts are in person this year! Read the recent announcement to learn
+      more.
     imagesrc: /images/buo-1.jpg
   - logo: true
     title: March 2020 Concert
