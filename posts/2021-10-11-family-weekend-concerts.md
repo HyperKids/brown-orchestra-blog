@@ -11,8 +11,10 @@ The Brown University Orchestra, under the direction of Mark Seto, perform two co
 
 *All ticket proceeds benefit the Brown University Orchestra Tour Fund*
 ## Program
-Valerie Coleman: *Seven O’Clock Shout*\
-Johannes Brahms: Piano Concerto No. 2 in B-flat Major, Op. 83 (David Sacks ’22, piano)\
+Valerie Coleman: *Seven O’Clock Shout*
+
+Johannes Brahms: Piano Concerto No. 2 in B-flat Major, Op. 83 (David Sacks ’22, piano)
+
 Igor Stravinsky: *The Firebird* (1919 Suite)
 ## Masking Rule
 Please note: All individuals – regardless of vaccination status – must wear masks indoors. Visitors who come an indoor event unequipped with a mask will not be admitted inside the hall. Unvaccinated individuals must practice 6-foot social distancing. Vaccinated individuals are not required to distance. [Full details on the University’s guidelines and expectations for visitors to campus can be found on this webpage](https://healthy.brown.edu/visitors-guests).
