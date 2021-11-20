@@ -1,24 +1,25 @@
 ---
 President:
-- Michael Tu
+- Haley Seo
 Vice President:
-- Susan Hasegawa
-Personnel Manager:
-- James Kim (Strings)
-- Zachary Bernstein (Others)
-Librarians:
-- Haley Seo (Head)
-- Christina Kim
-- Ryan Lum
-Concert Manager:
 - Sabrina Chiang
+Personnel Managers:
+- Rosella Liu (Upper Strings)
+- Torben Parker (Lower Strings)
+- Chris Shin (Winds & Brass)
+Librarians:
+- Ryan Lum (Head)
+- Seowon Chang
+- Vanessa Chang
+- Renee Choi
+- Susan Hasegawa
+- Michael Sun
+Concert Manager:
+- Annie Wu
 Webmasters:
-- Maya Taylor
 - Isaac Kim
+- Michael Tu
+- Nick Vadasz
 Public Relations:
-- Helen Zhou
-Development Personnel:
-- Xinru Li
-Tour Coordinator:
-- Rainbow Chen
+- Chloe Kim
 ---
