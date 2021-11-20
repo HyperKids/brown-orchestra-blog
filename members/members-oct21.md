@@ -1,5 +1,5 @@
 ---
-title: "November 2021"
+title: "Fall 2021"
 column1:
   Flute:
   - Lindsay Kunhardt
@@ -50,83 +50,82 @@ column1:
   - Nicholas Vadasz
   Piano:
   - Ryan Lum
-  Harp:
-  - Hyunjung Choi
 column2:
   Violin 1:
-  - Emily Kim (CM)
-  - Owen Lockwood (ACM)
-  - Sarah Kim
-  - Kyoko Saito
+  - Renee Choi (CM)
+  - Emily Kim (ACM)
+  - Owen Lockwood
+  - Daniel Kang
   - Ian Joe
-  - April Moon
   - Rohun Rajpal
+  - Charlie Loh
+  - April Moon
+  - Isaac Kim
   - Yui Musha
   - Rebecca Bowers
-  - Stella Chen
-  - Isaac Kim
-  - Elbert Wu
   - Tony Pan
-  - Bryce Li
-  - Michael Li
-  - Tiger Ji
-  - Tomoki Yamanaka
-  - Michael Sun
-  - Maya Taylor
-  Violin 2:
-  - Renee Choi (P)
-  - Charlie Loh (AP)
-  - Daniel Joh Kang
   - Bryan Huang
+  - Michael Sun
+  - Tomoki Yamanaka
+  - Michael Li
+  - Stella Chen
+  - Tiger Ji
+  - Bryce Li
+  Violin 2:
+  - Sarah Kim (P)
+  - Maya Taylor(AP)
+  - Kyoko Saito
+  - Elbert Wu
+  - Ryan Urato
+  - Kiran Klubock-Shukla
   - Haley Seo
   - Sabrina Chiang
-  - Ryan Urato
-  - Rosella Liu
+  - Xuanru Liu
+  - Mark Appleman
   - Lily Zhou
   - Pauline Gregory
-  - Mark Appleman
-  - Kiran Klubock-Shukla
-  - Ava Glazier
-  - Anusha Srinivasan
-  - Luke Choi
+  - Oliver Grynberg
   - Brian Lee
   - Julian Joseph
-  - Oliver Grynberg
+  - Luke Choi
+  - Ava Glazer
+  - Anusha Srinivasan
   Viola:
-  - Arman Deendar (P)
-  - Chloe Kim (AP)
-  - Seowon Chang
-  - Sunny Li
+  - Annie Wu (P)
+  - Arman Deendar (AP)
+  - Chloe Kim
   - Shira Wolpowitz
-  - Sara Ryan
-  - Susan Hasegawa
-  - Xinru Li
+  - Seowon Chang
   - Irene Kwon
-  - Sarah Ogundare
+  - Sunny Li
   - Kainoa Maruoka
-  - Alexander Daskalopoulos
+  - Sara Ryan
   - Maya Silver-Lewis
-  - Eleanor Eng
+  - Susan Hasegawa
   - Michael Tu
-  - Annie Wu
+  - Alexander Daskalopoulus
+  - Eleanor Eng
+  - Sarah Ogundare
+  - Xinru Li
   Violoncello:
-  - Sedong Hwang (P)
-  - Elvin Choi (AP)
-  - Nicholas Huang
-  - Sean Yu
+  - Aaron Gruen (P)
+  - Sedong Hwang (AP)
+  - Elvin Choi
   - William Suh
-  - Tessa Devoe
-  - Janek Schaller
-  - Tanya Qu
-  - Torben Parker
-  - Eli Flomenhoft
-  - Aaron Gruen
+  - Alex Ding
+  - Sean Yu
   - Ethan Chung
+  - Tanya Qu
+  - Tessa Devoe
   - Rebecca Kirby
   - Sierra Rowley
-  - Alex Ding
+  - Torben Parker
+  - Nicholas Huang
+  - Janet Schaller
+  - Eli Flomenhoft  
   Bass:
   - Camille Donoho (P)
+  - Emma Venarde (AP)
   - Neil Foglio
   - Jamie Smith
   
