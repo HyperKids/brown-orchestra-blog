@@ -2,9 +2,9 @@
 filename: Homepage Slideshow
 data:
   - logo: true
-    title: Family Weekend Concerts
-    subtitle: The Brown University Orchestra has two upcoming concerts. Learn more
-      in our latest announcements.
+    title: 2021 Family Weekend Concerts
+    subtitle: The Brown University Orchestra performed two concerts in Sayles Hall
+      on Family Weekend.
     alt: Concerts are in person this year! Read the recent announcement to learn
       more.
     imagesrc: /images/buo-1.jpg
