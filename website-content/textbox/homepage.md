@@ -1,10 +1,10 @@
 ---
 filename: Homepage Textbox
 data:
-  - title: November 2021 Concerts
-    body: The Brown University Orchestra is proud to perform two concerts in Sayles
-      Hall on Saturday, November 20 at 8pm and Sunday, November 21 at 3pm.
+  - title: Spring 2022 Ensemble and Audition Information
+    body: The Brown University Orchestra is holding auditions for select instruments
+      on January 27, 2022.
     button:
       - text: Learn More →
-        href: /events
+        href: /audition
 ---
