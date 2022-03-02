@@ -4,7 +4,7 @@ President:
 Vice President:
 - Sabrina Chiang
 Personnel Managers:
-- Rosella Liu (Upper Strings)
+- Ryan Urato (Upper Strings)
 - Torben Parker (Lower Strings)
 - Chris Shin (Winds & Brass)
 Librarians:
