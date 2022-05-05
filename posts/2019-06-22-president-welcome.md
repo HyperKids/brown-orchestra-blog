@@ -10,7 +10,7 @@ image:
     President (right) pose for a photo before rehearsal.
   attr: Xinru Li/Brown University Orchestra
 ---
-# hello this is a fake header
+
 
 Hello all! My name is Rainbow Chen and I am the President of the Brown University Orchestra for the 2019-2020 school year! I am a double bassist concentrating in Education Policy and History and I am extremely honored and delighted to lead the orchestra board and represent the orchestra this year. I hope that myself and my Vice President Michael Tu ‘22 can continue the wonderful work that our former President and Vice President Lucy Duda ‘20 and Max Naftol ‘19 have done to help give our orchestra members an unforgettable orchestral experience.
 
