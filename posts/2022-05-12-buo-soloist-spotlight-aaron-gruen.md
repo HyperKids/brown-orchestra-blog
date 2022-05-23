@@ -7,8 +7,7 @@ date: 2022-05-12
 image:
   url: images/uploads/aaron_gruen.jpg
   caption: Aaron Gruen, 2021-2022 BUO Concerto Competition Winner. He performed
-    the Shostakovich Cello Concerto No. 1 with BUO in the March 2022 concert
-    season.
+    the Shostakovich Cello Concerto No. 1 with BUO in March 2022.
 ---
 Aaron Gruen, a junior at Brown University, has been playing the cello in the Brown University Orchestra for three years. At the age of four, after waking up from a dream in which he was playing random notes on the cello, he started taking cello lessons in his hometown of Munich, Germany. Since then he has continued living this dream to the fullest. In 2020, during the height of the pandemic, Aaron seized the once-in-a-lifetime opportunity to spend a year at the Prague Music Conservatory in the Czech Republic, fulfilling another dream of his: studying at a conservatory. There, he started learning the Shostakovich Cello Concerto No.1, a challenging and physically demanding piece of music that he thought he would never have the chance to learn. In a darker sense, Aaron chose this piece because he typically learns pieces of music based on the current chapter of his life, and Shostakovich perfectly sets the mood for a desolate, hopeless state of purgatory. Speaking in a brighter light, he has been dreaming of learning the Shostakovich since 2016 when he heard it for the first time, but in 2020, thanks to the pandemic, he knew this was finally the moment to learn the piece, wondering, “When else will I have the time to learn \[this piece]?” 
 
