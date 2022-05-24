@@ -5,7 +5,7 @@ author: chrisshin1
 topic: News
 date: 2022-05-24
 image:
-  url: images/uploads/kenji-katherine-workshop.jpg
+  url: images/uploads/kenji-katherine-workshop-smaller.png
   caption: Guest artists of the May concert cycle, Kenji Bunch and Katherine
     Winterstein, stand with members of the BUO after their workshop on writing
     music and developing musicality at Grant Recital Hall.
