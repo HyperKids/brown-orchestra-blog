@@ -23,6 +23,6 @@ As we end our season and welcome the summer heat, we say farewell to our sevente
 
 From the completion of the long-awaited Performing Arts Center, to welcoming the next cohort of first-year musicians to this community, we can’t wait to continue making music and building this community together. Stay connected with us on social media, and we hope to visit you more often with these newsletters! 
 
-Musically yours,
-Haley Seo ‘23
+Musically yours,  
+Haley Seo ‘23  
 BUO President ‘21-’22
