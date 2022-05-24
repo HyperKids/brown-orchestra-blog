@@ -5,7 +5,7 @@ author: sabrinachiang1
 topic: News
 date: 2022-05-12
 image:
-  url: images/uploads/aaron_gruen.jpg
+  url: images/uploads/aaron-gruen-smaller.png
   caption: Aaron Gruen, 2021-2022 BUO Concerto Competition Winner. He performed
     the Shostakovich Cello Concerto No. 1 with BUO in March 2022.
 ---
