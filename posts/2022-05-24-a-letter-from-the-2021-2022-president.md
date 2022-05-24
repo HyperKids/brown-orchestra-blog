@@ -21,7 +21,7 @@ Beyond performances, we were also fortunate to hold numerous events for orchestr
 
 As we end our season and welcome the summer heat, we say farewell to our seventeen graduates of the class of 2022, and send them off with hope as we thank them for their love for BUO. We have been so grateful for an amazing ‘21-’22 season, and are even more excited for the upcoming year! 
 
-From the completion of the long-awaited Performing Arts Center, to welcoming the next cohort of first-year musicians to this community, we can’t wait to continue making music and building this community together. Stay connected with us on social media, and we hope to visit you more often with these newsletters! 
+From the completion of the long-awaited Performing Arts Center, to welcoming the next cohort of first-year musicians to this community, we can’t wait to continue making music and building this community together. Stay connected with us on social media, and we hope to bring you more music!
 
 Musically yours,  
 Haley Seo ‘23  
