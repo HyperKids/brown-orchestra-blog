@@ -5,7 +5,7 @@ author: haleyseo1
 topic: News
 date: 2022-05-24
 image:
-  url: images/uploads/p-vp-smaller.png
+  url: images/uploads/take-2.jpg
   caption: President Haley Seo ‘23 (right) and Vice President Sabrina Chiang ‘23
     (left) pose for a photo after the October 2021 Sunday concert.
 ---
@@ -23,6 +23,6 @@ As we end our season and welcome the summer heat, we say farewell to our sevente
 
 From the completion of the long-awaited Performing Arts Center, to welcoming the next cohort of first-year musicians to this community, we can’t wait to continue making music and building this community together. Stay connected with us on social media, and we hope to visit you more often with these newsletters! 
 
-Musically yours,
-Haley Seo ‘23
+Musically yours,  
+Haley Seo ‘23  
 BUO President ‘21-’22
