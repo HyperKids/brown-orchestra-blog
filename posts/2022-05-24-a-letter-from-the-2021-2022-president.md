@@ -5,10 +5,10 @@ author: haleyseo1
 topic: News
 date: 2022-05-24
 image:
-  url: ""
+  url: images/uploads/p-vp.jpg
+  caption: President Haley Seo ‘23 (right) and Vice President Sabrina Chiang ‘23
+    (left) pose for a photo after the October 2021 Sunday concert.
 ---
-<img src="http://p-vp.jpg" width="200" height="400" />
-
 Dear friends of the BUO,
 
 Hello! I am Haley Seo, and I’ve had the pleasure of serving as the Brown University Orchestra’s president for the 2021-2022 season. It’s been my honor and delight to be able to continue the amazing work done by my predecessors in fostering the BUO community.
