@@ -5,7 +5,7 @@ author: haleyseo1
 topic: News
 date: 2022-05-24
 image:
-  url: images/uploads/p-vp-smaller.png
+  url: images/uploads/take-2.jpg
   caption: President Haley Seo ‘23 (right) and Vice President Sabrina Chiang ‘23
     (left) pose for a photo after the October 2021 Sunday concert.
 ---
