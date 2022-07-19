@@ -21,7 +21,7 @@ data:
     alt: Violinist Jennifer Koh performs with the BUO.
     imagesrc: /images/2020-12/jennifer-koh.jpg
   - logo: false
-    title: BUO 21-22
+    title: BUO 2021-2022
     subtitle: BUO poses for a group photo during the May 2022 concert dress rehearsal.
     imagesrc: images/uploads/img_1642.jpg
     alt: A group of 100 musicians pose for a photo in Sayles Hall with conductor
