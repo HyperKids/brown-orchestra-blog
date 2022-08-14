@@ -26,5 +26,5 @@ data:
     subtitle: BUO poses for a group photo during the May 2022 concert dress rehearsal.
     imagesrc: images/uploads/img_1642.jpg
     alt: A group of 100 musicians pose for a photo in Sayles Hall with conductor
-      Mark Seto
+      Mark Seto.
 ---
