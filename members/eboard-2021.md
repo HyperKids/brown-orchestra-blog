@@ -1,8 +1,8 @@
 ---
 President:
-- Sabrina Chiang
+- Haley Seo
 Vice President:
-- Chris Shin
+- Sabrina Chiang
 Personnel Managers:
 - Ryan Urato (Upper Strings)
 - Torben Parker (Lower Strings)
