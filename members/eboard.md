@@ -3,7 +3,7 @@ President:
 - Sabrina Chiang
 Vice President:
 - Chris Shin
-Personnel Managers:
+Personnel Manager:
 - Ryan Urato (Upper Strings)
 - Caitlyn Carptenter (Lower Strings)
 - Krishnan Raju (Winds & Brass)
@@ -28,13 +28,13 @@ Concert Manager:
 Webmasters:
 - Isaac Kim
 - Chris Lee
-Public Relations Managers:
+Public Relations Manager:
 - Chloe Kim
 - Haley Seo
-Alumni Relations Managers:
+Alumni Relations Manager:
 - Torben Parker
 - Mark Appleman
-Social Managers:
+Social Manager:
 - Mark Appleman (Head)
 - Robin Hwang
 - Chloe Kim
