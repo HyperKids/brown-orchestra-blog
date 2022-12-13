@@ -6,7 +6,7 @@ author: torbenparker1
 topic: Blog
 date: 2022-12-12
 image:
-  url: images/uploads/lili-boulanger-combined-image-header-1-1-.jpg
+  url: images/uploads/unnamed-1-.jpg
 ---
 This past concert cycle, we performed *D’un matin du printemps*, a piece by French composer Lili Boulanger. Though well-known in the music scene in her short life, like many women composers, she was forgotten by society after her death.
 
