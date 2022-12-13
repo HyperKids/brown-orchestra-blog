@@ -5,7 +5,7 @@ author: robinhwang1
 topic: Blog
 date: 2022-12-12
 image:
-  url: images/uploads/trumpet.jpg
+  url: images/uploads/william_macdonald.jpg
 ---
 “I know obsession has a bad connotation, but it can be a great thing,” William tells me. 
 
