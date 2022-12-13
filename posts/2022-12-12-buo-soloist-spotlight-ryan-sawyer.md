@@ -5,7 +5,7 @@ author: robinhwang1
 topic: Blog
 date: 2022-12-12
 image:
-  url: images/uploads/marimba.jpg
+  url: images/uploads/ryan_sawyer.jpg
 ---
 When the introduction of Paul Creston’s Concertino for Marimba thunders from the orchestra, the first thing you will notice is soloist Ryan Sawyer’s shoes–or lack thereof. At rehearsals, he religiously takes off his shoes before stepping behind the 5-octave Marimba. His hands sprint up and down the bars while his feet bob up and down, trailing the swells of his playing. Watching him play, a natural question arises for the audience: Why does Ryan Sawyer play barefoot? 
 
