@@ -1,46 +1,38 @@
 ---
 President:
-- Sabrina Chiang
+- Torben Parker
 Vice President:
-- Chris Shin
+- Tom Gotsch
 Personnel Manager:
-- Ryan Urato (Upper Strings)
-- Caitlyn Carptenter (Lower Strings)
-- Krishnan Raju (Winds & Brass)
+- Eliana Alweis (Upper Strings)
+- Kieran Lucas (Lower Strings)
+- Yiyun Li (Winds & Brass)
 Librarians:
-- Ryan Lum (Head)
-- Thomas Gotsch
-- Elvin Choi
-- Thomas Chang
-- Leeah Chang
-- Chloe Kim
-- Chris Lee
-- Daniel Xu
-- William Suh
-- Nitin Sreekumar
-- Brian Lee
-- Renée Choi
+- Leeah Chang (Head)
+- Daniel Xu (Head)
+- Yujin Chung
+- Justin Jiang
+- Henry Zheng
+- Eliana Alweis
+- Ziqi Fang
+- Anne Chang
 Concert Manager:
-- Vanessa Chang
-- Haley Seo
-- Annie Wu
-- Thomas Gotsch
+- Henry Zheng
+- Eliana Alweis
 Webmasters:
-- Isaac Kim
-- Chris Lee
+- Chai Harsha
+- Ethan Park
 Public Relations Manager:
 - Chloe Kim
-- Haley Seo
+- Zoë Schwartz
 Alumni Relations Manager:
-- Torben Parker
-- Mark Appleman
+- Nathan Throneburg
+- Jesalina Phan
+- Zoë Schwartz
 Social Manager:
-- Mark Appleman (Head)
-- Robin Hwang
-- Chloe Kim
-- Vanessa Chang
-- Thomas Chang
-- William Suh
+- Chloe Kim (Head)
+- Junnie Kim (Head)
 - Ethan Park
-- Brian Lee
+- Jesalina Phan
+- Anne Chang
 ---

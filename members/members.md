@@ -1,129 +1,126 @@
 ---
-title: "November 2022"
+title: "October 2023"
 column1:
   Violin 1:
-  - Charles Loh (CM)
-  - Maya Taylor (ACM)
-  - Daniel Xu
-  - Kelly Jeong
-  - Moonhee Kim
+  - Renée Choi (CM)
+  - Charles Loh (ACM)
   - Sarah Kim
-  - April Moon
-  - Kyoko Saito
-  - Athina Chen
-  - Henry Zheng
-  - Jessica Ding
-  - Isaac Kim
-  - Tiger Ji
-  - Rebecca Bowers
-  - Michael Sun
-  - Christopher Jeong
   - Owen Lockwood
-  Violin 2:
-  - Renée Choi (P)
-  - Amy Zhang (AP)
-  - Ethan Park
-  - Barron Clancy
-  - Ziqi Fang
+  - Daniel Xu
+  - Kyoko Saito
+  - Rebecca Bowers
+  - Dayoung Yu
+  - Tony Pan
+  - Michael Sun
+  - John Qiu
+  - Isaac Jin
+  - Athina Chen
+  - Jesalina Phan
   - Grace Ma
-  - Pauline Gregory
-  - Ryan Urato
-  - Eliana Alweis
-  - Haley Seo
-  - Mark Appleman
-  - Emily Wang
+  - Mitsuki Jiang
+  - Tiger Ji
+  - Lucas Stancill
+  Violin 2:
+  - Moonhee Kim (P)
+  - Ethan Park (AP)
+  - Athena Deng
+  - Henry Zheng
+  - Uri Dickman
+  - Andrew Gao
+  - Justin Jang
+  - Jessica Ding
   - Meg Lorraine
   - Lily Zhou
-  - Sabrina Chiang
+  - Kiran Klubock-Shukla
+  - Ryan Urato
+  - Samuel Lederman
+  - Eliana Alweis
+  - Pauline Gregory
   - Brian Lee
-  - Bryce Li
-  - Minchae Kim
+  - Ziqi Fang
   Viola:
-  - Caitlyn Carpenter (P)
-  - Seowon Chang (AP)
-  - Chloe Kim
-  - Chai Harsha
-  - Richard Tang
-  - Annie Wu
-  - Kieran Lucus
+  - Chloe Kim (P)
+  - Brandon Lee (AP)
+  - Caitlyn Carpenter
+  - Barron Clancy
+  - Yujin Chung
+  - Yunjoe Chang
+  - Emily Vesper
   - Zoë Schwartz
-  - Christopher Hong
-  - Sunny Li
+  - Sejin Park
+  - Andrew Li
+  - Kieran Lucus
+  - Chai Harsha
+  - Bart Hearn
   - Michael OuYang
   Violoncello:
-  - Aaron Gruen (P)
-  - Nicholas Huang (AP)
-  - Alex Ding
-  - Elvin Choi
-  - Jimmy Cai
-  - Lauren Cho
-  - Austin Jacobson
-  - Torben Parker
-  - Sedong Hwang
-  - Sean Yu
+  - Austin Jacobson (P)
+  - Sedong Hwang (AP)
   - Hannah Zupancic
+  - Jimmy Cai
+  - Grace Yang
+  - Chelsea Hwang
   - William Suh
-  - Lisa Baek
   - Leeah Chang
   - Avery Maytin
+  - Torben Parker
+  - Janek Schaller
+  - Alex Ding
+  - Elvin Choi
+  - Sean Yu
   Bass:
-  - Camille Donoho (P)
-  - Seth Heye-Smith (AP)
-  - Tom Gotsch
+  - Tom Gotsch (P)
+  - Nathan Throneburg (AP)
+  - Christine Parker
   - Emma Venarde
+  - Camille Donoho
 column2:
   Flute: 
+  - Kajsa Harrington
   - Judy Lee
   - Erica Sahin
   - Faith Shim
   - Seehanah Tang
   - Chloe Zhao
   Oboe: 
-  - Vanessa Chang
+  - William Belfor
+  - Richard Huang
   - Junnie Kim
-  - Christopher Lee
   - Anna Ryu
-  - Siyuan Su
   Clarinet:
   - Qingyang Cheng
   - Phoebe Hong
+  - Sungwon La
   - Yiyun Li
-  - James Ro
   Basoon: 
-  - Bryan Kwon
-  - Nitin Sreekumar
-  - Matias Lee
+  - Grace Gongoleski
+  - Caroline Kao
+  - Kelly Lin
+  - Autumn Wong
   Horn: 
   - Lizzy Bernold
   - Milan Capoor
-  - Robin Hwang
   - Brendan McMahon
-  - Zach Potts
   - Mei Tiemeyer
+  - HT Wu
   Trumpet: 
-  - Alice Cannon
   - Andrew Furst
   - William MacDonald
-  - Jackson Moore
+  - Nikhil Reuben
   - Chris Shin
   Trombone: 
-  - Nicholas Cancellaro
-  - David Kamper
-  - Rami Najjar
-  - Bradley Smith
+  - Gregory Lee
+  - Ethan Vivoda-Sadee
+  - Zhixing Wang
   Tuba: 
   - Collin Brown
   Percussion:
-  - Tats Daniel
-  - Alex Zhou
-  - Srikrishnan Raju
+  - Jacqueline Lee
+  - Ryan Lee
+  - Michelle Qiu
   - Ryan Sawyer
   - Nicholas Vadasz
-  - Ryan Lee
-  - Megan Ball
-  Piano/Celesta:
-  - Ryan Lum
+  - Austin Xiang
   Harp: 
   - Hyunjung Choi
-  - David Moon
 ---
