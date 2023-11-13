@@ -1,79 +1,79 @@
 ---
-title: "December 2023"
+title: "October 2023"
 column1:
   Violin 1:
-  - Moonhee Kim (CM)
-  - Renée Choi (ACM)
-  - Ethan Park
-  - Athena Deng
-  - Owen Lockwood
-  - Henry Zheng
+  - Renée Choi (CM)
+  - Charles Loh (ACM)
   - Sarah Kim
-  - Andrew Gao
-  - Rebecca Bowers
-  - Grace Ma
-  - Ziqi Fang
-  - Athina Chen
-  - Michael Sun
-  - Isaac Jin
-  - Tiger Ji
-  - Jessica Ding
-  - Uri Dickman
-  - Justin Jang
-  Violin 2:
-  - Charles Loh (P)
-  - Daniel Xu (AP)
+  - Owen Lockwood
+  - Daniel Xu
   - Kyoko Saito
+  - Rebecca Bowers
   - Dayoung Yu
   - Tony Pan
+  - Michael Sun
   - John Qiu
-  - Mitsuki Jiang
+  - Isaac Jin
+  - Athina Chen
   - Jesalina Phan
+  - Grace Ma
+  - Mitsuki Jiang
+  - Tiger Ji
   - Lucas Stancill
-  - Kiran Klubock-Shukla
-  - Lily Zhou
-  - Samuel Lederman
+  Violin 2:
+  - Moonhee Kim (P)
+  - Ethan Park (AP)
+  - Athena Deng
+  - Henry Zheng
+  - Uri Dickman
+  - Andrew Gao
+  - Justin Jang
+  - Jessica Ding
   - Meg Lorraine
+  - Lily Zhou
+  - Kiran Klubock-Shukla
+  - Ryan Urato
+  - Samuel Lederman
   - Eliana Alweis
   - Pauline Gregory
   - Brian Lee
-  - Ryan Urato
+  - Ziqi Fang
   Viola:
-  - Caitlyn Carpenter (P)
-  - Yujin Chung (AP)
-  - Chloe Kim
-  - Yunjoe Chang
+  - Chloe Kim (P)
+  - Brandon Lee (AP)
+  - Caitlyn Carpenter
   - Barron Clancy
-  - Brandon Lee
-  - Sejin Park
+  - Yujin Chung
+  - Yunjoe Chang
   - Emily Vesper
-  - Andrew Li
   - Zoë Schwartz
+  - Sejin Park
+  - Andrew Li
+  - Kieran Lucus
   - Chai Harsha
-  - Michael OuYang
-  - Kieran Lucas
   - Bart Hearn
+  - Michael OuYang
   Violoncello:
-  - Elvin Choi (P)
-  - Hannah Zupancic (AP)
-  - Austin Jacobson
+  - Austin Jacobson (P)
+  - Sedong Hwang (AP)
+  - Hannah Zupancic
   - Jimmy Cai
-  - Sean Yu
-  - Alex Ding
   - Grace Yang
-  - Janek Schaller
-  - Avery Maytin
   - Chelsea Hwang
-  - Leeah Chang
-  - Torben Parker
   - William Suh
-  - Sedong Hwang
+  - Leeah Chang
+  - Avery Maytin
+  - Torben Parker
+  - Janek Schaller
+  - Alex Ding
+  - Elvin Choi
+  - Sean Yu
   Bass:
-  - Camille Donoho (P)
-  - Tom Gotsch (AP)
-  - Nathan Throneburg
+  - Tom Gotsch (P)
+  - Nathan Throneburg (AP)
   - Christine Parker
   - Emma Venarde
+  - Camille Donoho
 column2:
   Flute: 
   - Kajsa Harrington
@@ -115,7 +115,6 @@ column2:
   Tuba: 
   - Collin Brown
   Percussion:
-  - Tats Daniel
   - Jacqueline Lee
   - Ryan Lee
   - Michelle Qiu
