@@ -9,11 +9,11 @@ data:
     link: https://www.brown.edu/news/2023-10-20/lindemann-opening
     alt: A picture of the crowd at the Lindemann on its opening night
   - logo: true
-    title: Spring 2021 Virtual Concert
-    subtitle: The Brown University Orchestra performed virtually during Spring 2021.
-    imagesrc: images/uploads/buo-spring-2021-poster.jpg
-    link: https://www.youtube.com/watch?v=jzJkxFuC0Kg
-    alt: Brown University Orchestra Spring 2021 performance.
+    title: Itzhak Perlman Returns to Brown
+    subtitle: Violinist Itzhak Perlman performs the Bruch Violin Concerto with BUO
+      at the Lindemann inauguration.
+    imagesrc: images/uploads/20231021_comm_lindemannperformance065.jpg
+    alt: Itzhak Perlman performs with BUO.
   - logo: false
     title: BUO 2021-2022
     subtitle: BUO poses for a group photo during the May 2022 concert dress rehearsal.
@@ -21,9 +21,11 @@ data:
     alt: A group of 100 musicians pose for a photo in Sayles Hall with conductor
       Mark Seto.
   - logo: true
-    title: Itzhak Perlman Returns to Brown
-    subtitle: Violinist Itzhak Perlman performs the Bruch Violin Concerto with BUO
-      at the Lindemann inauguration.
-    imagesrc: images/uploads/20231021_comm_lindemannperformance065.jpg
-    alt: Itzhak Perlman performs with BUO.
+    title: BUO Performs Elgar and Shostakovich
+    subtitle: December 2023 concert features cellist Sedong Hwang '24 and
+      Shostakovich's Symphony No. 11.
+    imagesrc: images/uploads/buo-december2023-poster.png
+    link: https://www.brown.edu/Departments/Music/sites/orchestra/events
+    alt: The program for the December 2023 concert, featuring cellist Sedong Hwang
+      '24.
 ---
