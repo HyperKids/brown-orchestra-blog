@@ -1,78 +1,77 @@
 ---
 title: "December 2023"
 column1:
-  Violin 1:
-  - Moonhee Kim (CM)
-  - Renée Choi (ACM)
-  - Ethan Park
-  - Athena Deng
-  - Owen Lockwood
-  - Henry Zheng
-  - Sarah Kim
-  - Andrew Gao
-  - Rebecca Bowers
-  - Grace Ma
-  - Ziqi Fang
-  - Athina Chen
-  - Michael Sun
-  - Isaac Jin
-  - Tiger Ji
-  - Jessica Ding
-  - Uri Dickman
-  - Justin Jang
-  Violin 2:
-  - Charles Loh (P)
-  - Daniel Xu (AP)
-  - Kyoko Saito
-  - Dayoung Yu
-  - Tony Pan
-  - John Qiu
-  - Mitsuki Jiang
-  - Jesalina Phan
-  - Lucas Stancill
-  - Kiran Klubock-Shukla
-  - Lily Zhou
-  - Samuel Lederman
-  - Meg Lorraine
+  Violin:
   - Eliana Alweis
+  - Rebecca Bowers
+  - Athina Chen
+  - Renée Choi
+  - Athena Deng
+  - Uri Dickman
+  - Jessica Ding
+  - Ziqi Fang
+  - Andrew Gao
   - Pauline Gregory
+  - Justin Jang
+  - Tiger Ji
+  - Mitsuki Jiang
+  - Isaac Jin
+  - Moonhee Kim
+  - Sarah Kim
+  - Kiran Klubock-Shukla
+  - Samuel Lederman
   - Brian Lee
+  - Owen Lockwood
+  - Charles Loh
+  - Meg Lorraine
+  - Grace Ma
+  - Tony Pan
+  - Ethan Park
+  - Jesalina Phan
+  - John Qiu
+  - Kyoko Saito
+  - Lucas Stancill
+  - Michael Sun
   - Ryan Urato
+  - Daniel Xu
+  - Dayoung Yu
+  - Henry Zheng
+  - Lili Zhou
   Viola:
-  - Caitlyn Carpenter (P)
-  - Yujin Chung (AP)
-  - Chloe Kim
+  - Caitlyn Carpenter
   - Yunjoe Chang
+  - Yujin Chung
   - Barron Clancy
-  - Brandon Lee
-  - Sejin Park
-  - Emily Vesper
-  - Andrew Li
-  - Zoë Schwartz
   - Chai Harsha
-  - Michael OuYang
-  - Kieran Lucas
   - Bart Hearn
-  Violoncello:
-  - Elvin Choi (P)
-  - Hannah Zupancic (AP)
-  - Austin Jacobson
+  - Chloe Kim
+  - Brandon Lee
+  - Andrew Li
+  - Kieran Lucus
+  - Michael OuYang
+  - Sejin Park
+  - Zoë Schwartz
+  - Emily Vesper
+  Cello:
   - Jimmy Cai
-  - Sean Yu
-  - Alex Ding
-  - Grace Yang
-  - Janek Schaller
-  - Avery Maytin
-  - Chelsea Hwang
   - Leeah Chang
-  - Torben Parker
-  - William Suh
+  - Elvin Choi
+  - Alex Ding
+  - Chelsea Hwang
   - Sedong Hwang
+  - Austin Jacobson
+  - Avery Maytin
+  - Torben Parker
+  - Janek Schaller
+  - William Suh
+  - Grace Yang
+  - Sean Yu
+  - Hannah Zupancic
   Bass:
-  - Camille Donoho (P)
-  - Tom Gotsch (AP)
-  - Nathan Throneburg
+  - Camille Donoho
+  - Tom Gotsch
   - Christine Parker
+  - Nathan Throneburg
   - Emma Venarde
 column2:
   Flute: 
