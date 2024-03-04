@@ -2,6 +2,12 @@
 filename: Homepage Slideshow
 data:
   - logo: true
+    title: BUO Performs with Anthony McGill
+    subtitle: March 2024 concert features NY Philharmonic Principal Clarinetist and
+      musicians from Community MusicWorks
+    imagesrc: images/uploads/20210228_mcgill_er_033creditericruddphotography.jpg
+    alt: A picture of NY Philharmonic Principal Clarinetist Anthony McGill
+  - logo: true
     title: BUO Performs Elgar and Shostakovich
     subtitle: December 2023 concert features cellist Sedong Hwang '24 and
       Shostakovich's Symphony No. 11.
@@ -22,10 +28,4 @@ data:
     imagesrc: images/uploads/20231021_comm_lindemannperformance012.jpg
     link: https://www.brown.edu/news/2023-10-20/lindemann-opening
     alt: A picture of the crowd at the Lindemann on its opening night
-  - logo: false
-    title: BUO 2021-2022
-    subtitle: BUO poses for a group photo during the May 2022 concert dress rehearsal.
-    imagesrc: images/uploads/img_1642.jpg
-    alt: A group of 100 musicians pose for a photo in Sayles Hall with conductor
-      Mark Seto.
 ---
