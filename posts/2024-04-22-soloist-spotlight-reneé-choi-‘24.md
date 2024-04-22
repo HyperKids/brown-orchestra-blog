@@ -1,0 +1,24 @@
+---
+title: "Soloist Spotlight: Reneé Choi ‘24"
+subtitle: Featuring Reneé Choi
+author: nathanthroneburg1
+topic: Blog
+date: 2024-04-22
+image:
+  url: images/uploads/reneechoi.jpg
+---
+As a winner of the 23-24 BUO Concerto Competition, violinist Reneé Choi ‘24 will perform *Introduction and Rondo Capriccioso* by Camille Saint-Saëns with the BUO this concert cycle. Before her performance on April 27th, we talked with Reneé about her musical journey and her aspirations for the future. 
+
+Since her mother is a pianist, Reneé grew up surrounded by classical music 27/4, and she started playing violin at age 5 after being inspired by a performance. Reneé thought, “that could be me one day.” As she grew and improved, violin came to represent a strong aspect of Reneé’s identity. A testament to this character is her elementary school nickname: “the violin girl.” The name stuck with her through high school, even though she no longer participated in her school orchestra. 
+
+Reneé, born and raised in Closter, New Jersey, played violin in the NYYS (New York Youth Symphony) while in high school. The NYYS provided her with a sense of musical community, lifelong friendships, and an escape from the stress of school. Her experiences in the youth symphony established and fostered her love of orchestra. She still experiences nostalgia for her time in the NYYS and her favorite pieces they performed, namely Dvorak’s 8th Symphony and Brahms’ 3rd Symphony.
+
+At Brown, Reneé has been an active member of the music community. She has played violin in the BUO for all four years of her college career, and loves the BUO community dearly (and we love her just as much). This love for the music community makes the upcoming concert, which will be Reneé’s last solo performance at Brown, feel bittersweet to her. To be able to perform a concerto with the BUO specifically is very important to her and a wonderful homage to her time in the orchestra and here at Brown. 
+
+Performing Saint-Saën’s *Rondo Capriccioso* means much more to Reneé than just the opportunity to play in front of an orchestra. She originally learned the piece in high school, but never was able to perform it, due to Covid, so the chance to play it now feels like “a full circle moment” to her. In addition to her sentimental attachment to the piece, she also chose the *Rondo Capriccioso* as her concerto to cater to her audience. Reneé thought the listeners would enjoy a fun, short show piece that is easy to understand musically. Although the piece might be easy to listen to, it is certainly not easy to play, and is a beautiful testament to Reneé’s virtuosity on the violin. 
+
+Reneé’s upcoming performance is not only an appreciation of her time in the BUO and her skills on the violin, but also the result of a long mental journey that changed how she feels about solo performance. In high school, Reneé preferred  orchestral work, but now that she is in college, she has learned to love solo performance as well. Previously, especially during high school, she was limited by an inner pressure to sound perfect. Music is mental, and her mind was focused on perfection when she performed. To deal with this pressure, Reneé developed a “mental prep routine” that she would run through before she placed her bow on the string. She would look at the music in her head, hear how she wanted it to sound in her mind, close her eyes and imagine cleaning up scattered clutter by “\[putting] it back into \[herself].” However, now that she has “the innate desire to present the best of herself” without focusing solely on perfection, she finds that she no longer needs to rely on this routine. Reneé realizes that now, solo music is “more having fun rather than being stressed and trying to be the best. It’s more just being content with what I have and what I have practiced so far. It’s a celebration, not an exam.” In line with this description, her performance with the BUO is really a celebration of her journey as a musician.
+
+Music has always held a special place in Reneé’s life and has taught her many lessons that aid her with the other facets of her life. The intense mental aspects of practice and rehearsal have strengthened her discipline, concentration, and resolve. The skill of preparing mentally for the thrill of performance has easily translated into preparing herself for exams and other stressful situations with ease. Most importantly, music has provided Reneé with lifelong friendships and a wonderful sense of community.
+
+In the future, Reneé plans to attend med school. However, she “really \[wants] music to stay a part of \[her] life forever,” and especially does not want to lose her connection to orchestra. She hopes to combine both of her passions and sub for an orchestra after completing med school. We know that Reneé will go on to do incredible things, and we will miss her dearly.
