@@ -7,6 +7,7 @@ data:
       musicians from Community MusicWorks
     imagesrc: images/uploads/20210228_mcgill_er_033creditericruddphotography.jpg
     alt: A picture of NY Philharmonic Principal Clarinetist Anthony McGill
+    link: https://www.brown.edu/news/2024-03-12/orchestra
   - logo: true
     title: BUO Performs Elgar and Shostakovich
     subtitle: December 2023 concert features cellist Sedong Hwang '24 and
