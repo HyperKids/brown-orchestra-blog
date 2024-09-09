@@ -13,19 +13,15 @@ the Brown University Orchestra (BUO) as president this year. I wanted to take th
 Thank you so much to all the staff who made it possible, including the Brown Corporation,
 our wonderful donors, the Brown Arts Institute, and all the architects, engineers, construction workers, security guards, and custodians who have made and continue to make the building a place of art for the world.
 
-
 As we moved into the end of the Winter Semester and towards the Spring Semester, on-
 campus, our yearly tradition of “Orchestra Families” continued. These groups pull together BUO students from different sections and years in “families” to foster togetherness. The Orchestra Family Feud event was an acute test of this, being an especially tense moment between the families (no blood was shed as far as I know). And for our movie night potluck, many families set up their own in-house kitchens, producing cookies, brownies, and dumplings. 
-
 
 In March, BUO hosted our 4th annual Winter Ball fundraiser! With a Roaring ‘20s / Gatsby
 theme, students from all across campus were busting it down on the dance floor (don’t worry, no speakeasies were frequented), to the tunes of chamber music, a capella, Klezmer, and the Em’s Femmes jazz ensemble. In fact, one attendee said that it was their favorite event they’d ever been to at Brown.
 
-
 In regard to the off-campus community, in our March cycle, BUO had the opportunity to
 perform side-by-side with Community Music Works (CMW), a nonprofit organization based in Providence that offers extracurricular music lessons for students from underprivileged
 backgrounds. Together with CMW musicians, we rehearsed and performed Jessie Montgomery’s piece *Soul Force*, in addition to Aaron Copland’s *Lincoln Portrait* and Richard Danielpour’s *From the Mountaintop Clarinet Concerto*, with special guests Joe Wilson Jr. and Anthony McGill on narration and clarinet respectively. Both BUO and CMW students thoroughly enjoyed performing together, and we hope this year is the start of a wonderful partnership.
-
 
 As we end our season and welcome the summer heat, we say farewell to our twenty-one
 graduates of the class of 2024, and send them off with hope as we thank them for their love for BUO. As the first class to make it through four post-Covid years, it is their dedication that has made this orchestra what it is today. We have been so grateful for an amazing ‘23-’24 season, and are even more excited for the upcoming year! 
@@ -34,11 +30,8 @@ Finally, I’d like to give a personal thank-you to everyone who worked behind t
 make this year possible. First, to the AMAZING music department staff, without whom we
 wouldn’t exist on campus at all. Second, the orchestra board- student volunteers who gave up their time to support the community they care about. And last but not least, to Director Mark Seto, who has reinforced our tuning etiquette and has phrased us to victory with a gentle yet firm ichthys.  We can’t wait to continue making art and building this community together. Stay connected with us on social media, and we hope to bring you more music!
 
-
 Musically yours,
 
-
 Torben Parker ‘25
-
 
 BUO President ‘23-’24
