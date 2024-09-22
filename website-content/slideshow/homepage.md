@@ -2,12 +2,12 @@
 filename: Homepage Slideshow
 data:
   - logo: true
-    title: BUO Performs with Anthony McGill
-    subtitle: March 2024 concert features NY Philharmonic Principal Clarinetist and
-      musicians from Community MusicWorks
-    imagesrc: images/uploads/20210228_mcgill_er_033creditericruddphotography.jpg
-    alt: A picture of NY Philharmonic Principal Clarinetist Anthony McGill
-    link: https://www.brown.edu/news/2024-03-12/orchestra
+    title: BUO Presents The Pines of Rome
+    subtitle: Saturday, October 19 at 7:30pm (Main Hall, Lindemann Performing Arts
+      Center)
+    imagesrc: images/uploads/pines.jpeg
+    alt: A picture of pine trees in Rome.
+    link: ""
   - logo: true
     title: BUO Performs Elgar and Shostakovich
     subtitle: December 2023 concert features cellist Sedong Hwang '24 and
