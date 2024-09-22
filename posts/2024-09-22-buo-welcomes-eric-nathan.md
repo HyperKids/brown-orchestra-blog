@@ -2,7 +2,7 @@
 title: BUO Welcomes Eric Nathan
 subtitle: Associate Professor of Music Eric Nathan Joins BUO as Interim Director
 author: nathanthroneburg1
-topic: Blog
+topic: Announcement
 date: 2024-09-22
 image:
   url: images/uploads/screenshot-2024-09-22-at-4.27.45 pm.png
