@@ -5,7 +5,7 @@ author: nathanthroneburg1
 topic: Blog
 date: 2024-09-22
 image:
-  url: images/uploads/eric-nathan-2021-new-headshot-1-portrait-luyuan-nathan-credit.jpg
+  url: images/uploads/screenshot-2024-09-22-at-4.27.45 pm.png
 ---
 BUO is pleased to announce Eric Nathan will be directing the orchestra as Interim Conductor for the Fall 2024 semester.
 
