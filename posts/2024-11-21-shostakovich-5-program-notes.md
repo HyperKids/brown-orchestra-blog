@@ -4,6 +4,8 @@ subtitle: The Historical Context of Shostakovich's Symphony No. 5
 author: torbenparker1
 topic: Program Notes
 date: 2024-11-21
+image:
+  url: images/uploads/dmitry-shostakovich.webp
 ---
 
 
