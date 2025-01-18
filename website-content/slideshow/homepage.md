@@ -4,7 +4,7 @@ data:
   - logo: true
     title: BUO Presents Mahler 6
     subtitle: Friday, February 28 at 7:30pm (Main Hall, Lindemann Performing Arts Center)
-    imagesrc: images/uploads/buo-4.jpeg
+    imagesrc: images/uploads/buo-5.png
     alt: BUO at the Lindemann Inauguration.
     link: https://www.brown.edu/Departments/Music/sites/orchestra/events
   - logo: true
