@@ -1,11 +1,11 @@
 ---
 title: "BUO Soloist Spotlight: Robert Shlyakhtenko"
-subtitle: unsaved
+subtitle: Featuring Robert Shlyakhtenko
 author: nathanthroneburg1
 topic: Blog
 date: 2025-04-03
 image:
-  url: images/uploads/img_5254.jpg
+  url: images/uploads/screenshot-2025-04-03-at-8.55.51 pm.png
 ---
 On April 17th, pianist and Brown Concerto Competition winner Robert Shlyakhtenko ‘27 will perform Edvard Grieg’s Piano Concerto in A Minor with the Brown University Orchestra. For many in the audience, this will be their first time hearing the piece. In my sit-down interview with Robert ahead of his performance, he thinks back to when he first heard the concerto years ago in a public concert given by a special pianist: his brother.
 
