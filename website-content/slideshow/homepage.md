@@ -2,11 +2,12 @@
 filename: Homepage Slideshow
 data:
   - logo: true
-    title: BUO Presents Mahler 6
-    subtitle: Friday, February 28 at 7:30pm (Main Hall, Lindemann Performing Arts Center)
+    title: Don’t Miss a Beat!
+    subtitle: Sign up for the BUO newsletter for updates, concert news, and
+      behind-the-scenes highlights
     imagesrc: images/uploads/buo-5.png
     alt: BUO at the Lindemann Inauguration.
-    link: https://www.brown.edu/Departments/Music/sites/orchestra/events
+    link: https://docs.google.com/forms/d/e/1FAIpQLScjaqq65Dvsi_RQHgo_kG89R-HqLh-VqqLyZijiXTh61tq_Kw/viewform?usp=header
   - logo: true
     title: "Season Finale: Chopin, Grieg, Márquez, and Bonds"
     subtitle: Thursday, April 17 at 7:30pm (Main Hall, Lindemann Performing Arts Center)
