@@ -9,8 +9,8 @@ data:
     alt: BUO at the Lindemann Inauguration.
     link: https://docs.google.com/forms/d/e/1FAIpQLScjaqq65Dvsi_RQHgo_kG89R-HqLh-VqqLyZijiXTh61tq_Kw/viewform?usp=header
   - logo: true
-    title: "Season Finale: Chopin, Grieg, Márquez, and Bonds"
-    subtitle: Thursday, April 17 at 7:30pm (Main Hall, Lindemann Performing Arts Center)
+    title: Introducing our 2025-26 Season
+    subtitle: Click above for concert dates, programs, and more
     imagesrc: images/uploads/20231021_comm_lindemannperformance012.jpg
     link: https://www.brown.edu/Departments/Music/sites/orchestra/events
     alt: The Lindemann Performing Arts Center
