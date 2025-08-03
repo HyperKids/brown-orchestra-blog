@@ -1,9 +1,11 @@
 ---
 title: A Letter from the 2024-2025 President
 subtitle: Reflecting on the season, and looking forwards to our future.
-author: nathanthroneburg1
+author: thomasgotsch1
 topic: Blog
 date: 2025-08-03
+image:
+  url: images/uploads/buo-5.png
 ---
 To our BUO Community,
 
