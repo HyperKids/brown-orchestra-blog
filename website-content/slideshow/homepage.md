@@ -20,4 +20,10 @@ data:
     subtitle: Opening of the Lindemann Performing Arts Center (2023)
     imagesrc: images/uploads/20231021_comm_lindemannperformance065.jpg
     alt: Itzhak Perlman and the BUO.
+  - logo: true
+    title: BUO Heads to French Canada
+    subtitle: Learn more about our March 2026 tour
+    imagesrc: images/uploads/rich-martello-msvrrkezah8-unsplash-1-2-.jpg
+    link: https://www.brown.edu/Departments/Music/sites/orchestra/news/2025-08-22/were-going-on-tour
+    alt: Quebec City
 ---
