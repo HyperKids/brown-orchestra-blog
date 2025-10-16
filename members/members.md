@@ -1,126 +1,125 @@
 ---
-title: "December 2023"
+title: "Fall 2025"
 column1:
   Violin:
   - Eliana Alweis
-  - Rebecca Bowers
+  - Daniel Bae
   - Athina Chen
-  - Renée Choi
+  - Jeremy Choi
+  - Barron Clancy
+  - Shireen Dalton
   - Athena Deng
-  - Uri Dickman
-  - Jessica Ding
   - Ziqi Fang
   - Andrew Gao
-  - Pauline Gregory
+  - Steven Geng
   - Justin Jang
-  - Tiger Ji
-  - Mitsuki Jiang
+  - Kelly Jeong
   - Isaac Jin
+  - Jim Kaplan
   - Moonhee Kim
-  - Sarah Kim
-  - Kiran Klubock-Shukla
-  - Samuel Lederman
-  - Brian Lee
-  - Owen Lockwood
-  - Charles Loh
+  - Jasmine Grace Liu
+  - Jerry Liu
   - Meg Lorraine
   - Grace Ma
-  - Tony Pan
+  - Naomi Meng
   - Ethan Park
-  - Jesalina Phan
-  - John Qiu
-  - Kyoko Saito
-  - Lucas Stancill
-  - Michael Sun
-  - Ryan Urato
+  - Camille Song
+  - Iris Tian
+  - Abe Tsai
+  - Alvin Wang
+  - Brendon Wen
   - Daniel Xu
-  - Dayoung Yu
+  - Alyssa Yang
+  - Philip Yao
+  - Charlotte Yeh
   - Henry Zheng
-  - Lili Zhou
   Viola:
-  - Caitlyn Carpenter
-  - Yunjoe Chang
+  - Anne Chang
+  - Emily Chen
   - Yujin Chung
-  - Barron Clancy
-  - Chai Harsha
-  - Bart Hearn
-  - Chloe Kim
-  - Brandon Lee
-  - Andrew Li
-  - Kieran Lucus
-  - Michael OuYang
-  - Sejin Park
+  - Andy Gan
+  - Ray Hu
+  - Chris Lee
   - Zoë Schwartz
-  - Emily Vesper
+  - Talia Tirschwell
+  - Emma Zou
   Cello:
+  - Cami Bly
   - Jimmy Cai
   - Leeah Chang
-  - Elvin Choi
-  - Alex Ding
-  - Chelsea Hwang
-  - Sedong Hwang
+  - Lucas Das
+  - Sam Fasciano
   - Austin Jacobson
-  - Avery Maytin
-  - Torben Parker
-  - Janek Schaller
-  - William Suh
-  - Grace Yang
-  - Sean Yu
+  - Daniel Jeon
+  - Jaden Ouyang
+  - Matt Sharib
+  - Marika Solomon Marcy
+  - Sarah Voigt
+  - Will Wu
   - Hannah Zupancic
   Bass:
-  - Camille Donoho
-  - Tom Gotsch
+  - Hannah Basel
+  - Tee Gotsch
+  - Luke Halpern
+  - Ryan Liu
+  - Audrey Luu
+  - Veronica Nerone
   - Christine Parker
   - Nathan Throneburg
-  - Emma Venarde
+  - Joshua Wung
 column2:
   Flute: 
+  - Charlotte Choi
+  - Joanne Ding
   - Kajsa Harrington
-  - Judy Lee
+  - Joseph Park
   - Erica Sahin
-  - Faith Shim
-  - Seehanah Tang
-  - Chloe Zhao
   Oboe: 
-  - William Belfor
+  - James Barrie
+  - Hannah Chang
   - Richard Huang
-  - Junnie Kim
-  - Anna Ryu
+  - Benjamin Lee
+  - Ellis Picuri
   Clarinet:
-  - Qingyang Cheng
   - Phoebe Hong
-  - Sungwon La
+  - Jabin Lee
   - Yiyun Li
-  Basoon: 
+  - Margalit Patry-Martin
+  - Ian Ritter
+  - Ariel Yen
+  Bassoon: 
+  - Caroline Cordts
   - Grace Gongoleski
+  - Allie Hunniues
   - Caroline Kao
-  - Kelly Lin
-  - Autumn Wong
+  - Sophia Milausnic
   Horn: 
-  - Lizzy Bernold
   - Milan Capoor
-  - Brendan McMahon
-  - Mei Tiemeyer
+  - Brian Dutile
+  - Dyson Linden
+  - Zoe Ulrich
   - HT Wu
   Trumpet: 
+  - Sammy Chen
   - Andrew Furst
-  - William MacDonald
-  - Nikhil Reuben
-  - Chris Shin
+  - Amelia Krouse
+  - Sebastian Thompson
   Trombone: 
-  - Gregory Lee
-  - Ethan Vivoda-Sadee
-  - Zhixing Wang
+  - Ethan Jiang
+  - Gregory Lee 
+  - Paul Tamburro
   Tuba: 
   - Collin Brown
+  - Noah Shepard
   Percussion:
-  - Tats Daniel
-  - Jacqueline Lee
-  - Ryan Lee
+  - Tristan Arkerson
+  - JR Ash
+  - Luke Cheng
   - Michelle Qiu
-  - Ryan Sawyer
-  - Nicholas Vadasz
   - Austin Xiang
   Harp: 
-  - Hyunjung Choi
+  - Alice Li
+  - Megan Williams
+  Piano:
+  - Michelle Qiu
 ---
