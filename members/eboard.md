@@ -1,38 +1,67 @@
 ---
 President:
-- Torben Parker
+- Eliana Alweis
 Vice President:
-- Tom Gotsch
-Personnel Manager:
-- Eliana Alweis (Upper Strings)
-- Kieran Lucas (Lower Strings)
-- Yiyun Li (Winds & Brass)
-Librarians:
-- Leeah Chang (Head)
-- Daniel Xu (Head)
-- Yujin Chung
-- Justin Jiang
-- Henry Zheng
-- Eliana Alweis
-- Ziqi Fang
 - Anne Chang
-Concert Manager:
-- Henry Zheng
-- Eliana Alweis
+Personnel Manager:
+- Alyssa Yang (Upper Strings)
+- Cami Bly (Lower Strings)
+- Grace Gongoleski (Winds/Brass/Percussion)
+Librarians:
+- Henry Zheng (Head)
+- Ian Ritter (Head)
+- Hannah Zupancic
+- Zoe Schwartz
+- Grace Gongoleski
+- Brian Dutile
+- Michelle Qiu
+- Allie Hunnius
+- JR Ash
+- Emily Chen
+- James Barrie
+- Joseph Park
+- Emma Zou
+- Camille Song
+- Kajsa Harrington
+- Jeremy Choi
+Concert Managers:
+- Tee Gotsch
+- Luke Halpern
+- Hannah Basel
+- Allie Hunnius
 Webmasters:
-- Chai Harsha
-- Ethan Park
+- Nathan Throneburg
+- Ryan Liu
+- Emma Zou
 Public Relations Manager:
-- Chloe Kim
-- Zoë Schwartz
+- Daniel Xu
+- Jabin Lee
+- Zoe Schwartz
+- Brendon Wen
+- Joseph Park
 Alumni Relations Manager:
 - Nathan Throneburg
-- Jesalina Phan
-- Zoë Schwartz
+- Zoe Schwartz
+- Audrey Luu
+- Alyssa Yang
+- Brendon Wen
 Social Manager:
-- Chloe Kim (Head)
-- Junnie Kim (Head)
-- Ethan Park
-- Jesalina Phan
-- Anne Chang
+- Jabin Lee (Head)
+- Daniel Bae
+- Hannah Zupancic
+- Ian Ritter
+- Michelle Qiu
+- Ryan Liu
+- JR Ash
+- Jeremy Choi
+- Iris Tian
+- Charlotte Choi
+Community Engagement:
+- Hannah Zupancic
+- Alyssa Yang
+- Cami Bly
+- Audrey Luu
+- Tee Gotsch
+- Luke Halpern
+- Hannah Basel
 ---
