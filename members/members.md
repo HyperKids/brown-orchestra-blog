@@ -1,20 +1,18 @@
 ---
-title: "Fall 2025"
+title: "Spring 2026"
 column1:
   Violin:
   - Eliana Alweis
   - Daniel Bae
-  - Athina Chen
   - Jeremy Choi
   - Barron Clancy
   - Shireen Dalton
   - Athena Deng
   - Ziqi Fang
   - Andrew Gao
-  - Steven Geng
+  - Gwen Hou Geng
   - Justin Jang
   - Kelly Jeong
-  - Isaac Jin
   - Jim Kaplan
   - Moonhee Kim
   - Jasmine Grace Liu
@@ -24,6 +22,7 @@ column1:
   - Naomi Meng
   - Ethan Park
   - Camille Song
+  - Lucas Stancill
   - Iris Tian
   - Abe Tsai
   - Alvin Wang
@@ -31,42 +30,46 @@ column1:
   - Daniel Xu
   - Alyssa Yang
   - Philip Yao
-  - Charlotte Yeh
+  - Yun-Tsai Yeh
   - Henry Zheng
   Viola:
   - Anne Chang
+  - Harshini Chaturvedula
   - Emily Chen
   - Yujin Chung
-  - Andy Gan
-  - Ray Hu
+  - Andrew Gan
+  - Zheyu Hu
   - Chris Lee
+  - Andrew Li
+  - Jiayi Qu
+  - Dylan Schenker
   - Zoë Schwartz
   - Talia Tirschwell
+  - Arya Vishwakarma
+  - Katie Xiang
   - Emma Zou
   Cello:
-  - Cami Bly
+  - Cameron Bly
   - Jimmy Cai
   - Leeah Chang
   - Lucas Das
-  - Sam Fasciano
+  - Samuel Fasciano
   - Austin Jacobson
-  - Daniel Jeon
-  - Jaden Ouyang
-  - Matt Sharib
+  - Soohong Jeon
   - Marika Solomon Marcy
+  - Jaden R Ouyang
+  - Matthew Sharin
   - Sarah Voigt
-  - Will Wu
+  - William Wu
   - Hannah Zupancic
   Bass:
   - Hannah Basel
-  - Tee Gotsch
+  - Thomas Gotsch
   - Luke Halpern
   - Ryan Liu
   - Audrey Luu
   - Veronica Nerone
-  - Christine Parker
   - Nathan Throneburg
-  - Joshua Wung
 column2:
   Flute: 
   - Charlotte Choi
@@ -84,21 +87,21 @@ column2:
   - Phoebe Hong
   - Jabin Lee
   - Yiyun Li
-  - Margalit Patry-Martin
   - Ian Ritter
   - Ariel Yen
   Bassoon: 
   - Caroline Cordts
   - Grace Gongoleski
-  - Allie Hunniues
-  - Caroline Kao
+  - Allie Hunnius
   - Sophia Milausnic
   Horn: 
   - Milan Capoor
   - Brian Dutile
   - Dyson Linden
+  - Will Tamburri
+  - Mei Tiemeyer
   - Zoe Ulrich
-  - HT Wu
+  - HaiTian Wu
   Trumpet: 
   - Sammy Chen
   - Andrew Furst
@@ -106,14 +109,15 @@ column2:
   - Sebastian Thompson
   Trombone: 
   - Ethan Jiang
-  - Gregory Lee 
-  - Paul Tamburro
+  - Gregory Lee
+  - Tobias Monte
+  - Jakob Ostheimer
   Tuba: 
   - Collin Brown
   - Noah Shepard
   Percussion:
   - Tristan Arkerson
-  - JR Ash
+  - Joseph Ash
   - Luke Cheng
   - Michelle Qiu
   - Austin Xiang
