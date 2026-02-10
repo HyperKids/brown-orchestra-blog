@@ -24,11 +24,6 @@ Archivist:
 - Ian Ritter
 - Matt Sharin
 - Henry Zheng
-Concert Managers:
-- Tee Gotsch
-- Luke Halpern
-- Hannah Basel
-- Allie Hunnius
 Webmasters:
 - Nathan Throneburg
 - Ryan Liu
