@@ -18,7 +18,7 @@ Librarians:
 - Megan Williams
 - Emma Zou
 - Hannah Zupancic
-Archivist
+Archivist:
 - Leeah Chang
 - Brian Dutile
 - Ian Ritter
@@ -33,7 +33,7 @@ Webmasters:
 - Nathan Throneburg
 - Ryan Liu
 - Emma Zou
-BUO Ball Committee
+BUO Ball Committee:
 - Charlotte Choi
 - Joanne Ding
 - Kajsa Harrington
