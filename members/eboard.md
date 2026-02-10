@@ -24,10 +24,6 @@ Archivist:
 - Ian Ritter
 - Matt Sharin
 - Henry Zheng
-Webmasters:
-- Nathan Throneburg
-- Ryan Liu
-- Emma Zou
 BUO Ball Committee:
 - Charlotte Choi
 - Joanne Ding
