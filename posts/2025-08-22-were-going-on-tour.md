@@ -8,4 +8,4 @@ image:
   url: images/uploads/img_0090.png
   caption: ""
 ---
-The BUO is thrilled to announce its 7-day French Canada tour in March 2026, including performances in Québec City, Montréal, and Ottawa. Stay tuned for more details!
+The BUO is thrilled to announce its 7-day French Canada tour in March 2026, including performances in Québec City, Montréal, and Ottawa. Check out our [tour website](https://mcmarts.ca/buo/) for performance details and ticket sales!
