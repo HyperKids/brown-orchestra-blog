@@ -3,7 +3,7 @@ title: A Letter from the 2025-2026 President
 subtitle: Eliana Alweis '26
 author: nathanthroneburg1
 topic: Blog
-date: 2026-05-26
+date: 2026-05-29
 image:
   url: images/uploads/buo-5.png
 ---
