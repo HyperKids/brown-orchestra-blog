@@ -2,11 +2,11 @@
 filename: Homepage Slideshow
 data:
   - logo: true
-    title: BUO Heads to French Canada
-    subtitle: Learn more about our March 2026 tour
-    imagesrc: images/uploads/rich-martello-msvrrkezah8-unsplash-1-2-.jpg
-    link: https://www.brown.edu/Departments/Music/sites/orchestra/news/2025-08-22/were-going-on-tour
-    alt: Quebec City
+    title: Audition for the BUO
+    subtitle: Click to see audition information for the 2026-27 season
+    imagesrc: images/uploads/buo-3.jpeg
+    link: https://docs.google.com/document/d/1mEgVqi6d1Oce_NOC8fj2dzv_YDP-pOEFaezoud_ifLE/edit?tab=t.0
+    alt: BUO performs at Lindemann Inauguration
   - logo: true
     title: Introducing our 2025-26 Season
     subtitle: Click above for concert dates, programs, and more
