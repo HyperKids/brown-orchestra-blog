@@ -8,10 +8,10 @@ data:
     link: https://docs.google.com/document/d/1mEgVqi6d1Oce_NOC8fj2dzv_YDP-pOEFaezoud_ifLE/edit?tab=t.0
     alt: BUO performs at Lindemann Inauguration
   - logo: true
-    title: Introducing our 2025-26 Season
+    title: Introducing our 2026-27 Season
     subtitle: Click above for concert dates, programs, and more
     imagesrc: images/uploads/buo-5.png
-    link: https://www.brown.edu/Departments/Music/sites/orchestra/events
+    link: https://orchestra.brown.edu/events
     alt: BUO at the Lindemann Inauguration.
   - logo: true
     link: https://www.brown.edu/news/2023-10-20/lindemann-opening
