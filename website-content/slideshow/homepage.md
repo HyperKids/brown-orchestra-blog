@@ -4,7 +4,7 @@ data:
   - logo: true
     title: Audition for the BUO
     subtitle: Click to see audition information for the 2026-27 season
-    imagesrc: images/uploads/buo-3.jpeg
+    imagesrc: images/uploads/orchestra-basses-full-resize-1200w.jpg
     link: https://docs.google.com/document/d/1mEgVqi6d1Oce_NOC8fj2dzv_YDP-pOEFaezoud_ifLE/edit?tab=t.0
     alt: BUO performs at Lindemann Inauguration
   - logo: true
