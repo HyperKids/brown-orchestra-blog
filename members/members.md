@@ -1,82 +1,81 @@
 ---
-title: "Spring 2026"
+title: "Fall 2026"
 column1:
   Violin:
-  - Eliana Alweis
+  - Suri Ahn
   - Daniel Bae
-  - Jeremy Choi
+  - Emily Boron
+  - Arjun Chandupatla
+  - Kristin Cho
   - Barron Clancy
   - Shireen Dalton
   - Athena Deng
-  - Ziqi Fang
-  - Andrew Gao
   - Gwen Hou Geng
   - Justin Jang
-  - Kelly Jeong
-  - Jim Kaplan
-  - Moonhee Kim
-  - Jasmine Grace Liu
-  - Jerry Liu
-  - Meg Lorraine
-  - Grace Ma
+  - Isaac Jin
+  - Maya Miro Johnson
+  - Xavier Joseph
+  - Jimmy Kaplan
+  - Chloe Lee
+  - Eric Lee
+  - Conan Li
   - Naomi Meng
+  - Haben Naizghi
   - Ethan Park
-  - Camille Song
+  - Lucy Previn
+  - Nisarg Shah
+  - Julia Song
   - Lucas Stancill
+  - Marco Vikram Suri
+  - Fielding Teague
   - Iris Tian
-  - Abe Tsai
+  - Abraham Tsai
   - Alvin Wang
+  - Niall Wang
   - Brendon Wen
-  - Daniel Xu
-  - Alyssa Yang
-  - Philip Yao
   - Yun-Tsai Yeh
-  - Henry Zheng
   Viola:
   - Anne Chang
-  - Harshini Chaturvedula
   - Emily Chen
+  - Dana Chung
   - Yujin Chung
   - Andrew Gan
-  - Zheyu Hu
-  - Chris Lee
-  - Andrew Li
-  - Jiayi Qu
-  - Dylan Schenker
-  - Zoë Schwartz
+  - Anoushka Jain
+  - Semi Jung
+  - Brandon Lee
+  - Lily Liu
   - Talia Tirschwell
   - Arya Vishwakarma
   - Katie Xiang
+  - Jason Y. Zhao
   - Emma Zou
   Cello:
   - Cameron Bly
-  - Jimmy Cai
-  - Leeah Chang
+  - Kirsten Choi
   - Lucas Das
   - Samuel Fasciano
-  - Austin Jacobson
-  - Soohong Jeon
+  - Sophie Yeju Ha
+  - Rachel Kline
   - Marika Solomon Marcy
-  - Jaden R Ouyang
+  - Adam Peng
   - Matthew Sharin
-  - Sarah Voigt
+  - Nate Steele
   - William Wu
-  - Hannah Zupancic
+  - Jason Zhao
   Bass:
-  - Hannah Basel
-  - Thomas Gotsch
   - Luke Halpern
   - Ryan Liu
   - Audrey Luu
-  - Veronica Nerone
+  - Christine Parker
+  - Van Teager
   - Nathan Throneburg
 column2:
   Flute: 
+  - Felix Chen
   - Charlotte Choi
   - Joanne Ding
   - Kajsa Harrington
   - Joseph Park
-  - Erica Sahin
   Oboe: 
   - James Barrie
   - Hannah Chang
@@ -84,46 +83,41 @@ column2:
   - Benjamin Lee
   - Ellis Picuri
   Clarinet:
-  - Phoebe Hong
+  - Mathew Atalla
   - Jabin Lee
-  - Yiyun Li
+  - Nicolas	Miller
+  - Margalit Patry-Martin
   - Ian Ritter
-  - Ariel Yen
   Bassoon: 
   - Caroline Cordts
   - Grace Gongoleski
   - Allie Hunnius
   - Sophia Milausnic
   Horn: 
-  - Milan Capoor
+  - James	Barrie
   - Brian Dutile
-  - Dyson Linden
-  - Will Tamburri
-  - Mei Tiemeyer
-  - Zoe Ulrich
-  - HaiTian Wu
+  - Daniil Gurenkov
+  - Kate Roraback
+  - William Tamburri
   Trumpet: 
-  - Sammy Chen
-  - Andrew Furst
+  - Xiaoping	Chen
+  - Noah Kim
   - Amelia Krouse
   - Sebastian Thompson
   Trombone: 
+  - Derek Hsi
   - Ethan Jiang
   - Gregory Lee
-  - Tobias Monte
   - Jakob Ostheimer
   Tuba: 
-  - Collin Brown
   - Noah Shepard
   Percussion:
-  - Tristan Arkerson
   - Joseph Ash
   - Luke Cheng
   - Michelle Qiu
-  - Austin Xiang
+  - Belinda Zhang
+  - Quincy Zuo
   Harp: 
   - Alice Li
   - Megan Williams
-  Piano:
-  - Michelle Qiu
 ---
