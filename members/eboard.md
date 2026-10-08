@@ -1,90 +1,91 @@
 ---
 President:
-- Eliana Alweis
-Vice President:
 - Anne Chang
-Head Librarians:
-- Ian Ritter
-- Henry Zheng
-Librarians:
-- James Barrie
-- Leeah Chang
-- Emily Chen
-- Brian Dutile
-- Grace Gongoleski
-- Kajsa Harrington
-- Matt Sharin
-- Camille Song
-- Megan Williams
-- Emma Zou
-- Hannah Zupancic
-Archivist:
-- Leeah Chang
-- Brian Dutile
-- Ian Ritter
-- Matt Sharin
-- Henry Zheng
-BUO Ball Committee:
-- Charlotte Choi
-- Joanne Ding
-- Kajsa Harrington
+Vice President:
 - Jabin Lee
-- Ryan Liu
-- Naomi Meng
-- Jaden Ouyang
+Head Librarians:
+- Sophia Milausnic
+- Ian Ritter
+Librarians:
+- Suri Ahn
+- James Barrie
+- Kirsten Choi
+- Dana Chung
+- Shireen Dalton
+- Luke Halpern
+- Amelia Krouse
+- Chloe Lee
 - Joseph Park
-- Zoë Schwartz
-- Brendon Wen
-- Megan Williams
+- Matt Sharin
+- Will Wu
 - Emma Zou
 Head Socials Manager:
-- Jabin Lee
-Socials Managers:
-- Daniel Bae
-- Emily Chen
 - Charlotte Choi
+Socials Managers:
+- Suri Ahn
+- Emily Chen
+- Dana Chung
+- Shireen Dalton
+- Semi Jung
+- Amelia Krouse
+- Chloe Lee
 - Ryan Liu
-- Naomi Meng
-- Michelle Qiu
 - Iris Tian
+- Niall Wang
+- Megan Williams
 Head Alumni Relations Manager:
 - Nathan Throneburg
 Alumni Relations Managers:
 - Luke Halpern
 - Audrey Luu
-- Jaden Ouyang
-- Zoe Schwartz
-- Abe Tsai
+- Iris Tian
+- Talia Tirschwell
 - Brendon Wen
 Community Engagement Committee:
-- JR Ash
-- Daniel Bae
+- James Barrie
 - Cami Bly
-- Andy Gan
-- Iris Tian
-- Abe Tsai
-- Hannah Zupancic
-Head Public Relations Managers:
-- Jabin Lee
-- Daniel Xu
-Public Relations Managers:
-- Andy Gan
-- Joseph Park
-- Brendon Wen
-Concert Managers:
-- Hannah Basel
+- Kirsten Choi
+- Dana Chung
+- Shireen Dalton
 - Luke Halpern
-- Allie Hunnius
-- Michelle Qiu
+- Chloe Lee
+- Audrey Luu
+- Marco Suri
+- Niall Wang
+- Will Wu
+- Emma Zou
+Head Public Relations Manager:
+- Brendon Wen
+Public Relations Managers:
+- Suri Ahn
+- Daniel Bae
+- Emily Chen
+- Charlotte Choi
+- Dana Chung
+- Shireen Dalton
+- Chloe Lee
+- Naomi Meng
+- Joseph Park
+- Iris Tian
+- Niall Wang
+- Emma Zou
+Concert Managers:
+- Emily Chen
+- Luke Halpern
+- Matt Sharin
+- Talia Tirschwell
+- Niall Wang
+- Will Wu
 Personnel Managers:
 - Cami Bly
-- Grace Gongoleski
-- Alyssa Yang
+- Kajsa Harrington
+- Chloe Lee
 Webmasters:
-- Ryan Liu
+- Emily Chen
+- Semi Jung
+- Marco Suri
 - Nathan Throneburg
+- Emma Zou
 Ombudsperson:
-- Tee Gotsch
-Tour Manager:
-- Tee Gotsch
+- Nathan Throneburg
 ---
