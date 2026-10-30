@@ -1,13 +1,13 @@
 ---
 title: "Soloist Spotlight: Lucas Sha "
-subtitle: Featuring Lucas Sha '26.5
+subtitle: Featuring Lucas Sha '27
 author: brendonwen1
 topic: Blog
 date: 2026-10-17
 image:
   url: images/uploads/lucas_sha_resized_800.jpg
 ---
-For Lucas Sha ’26.5, what started as a fascination for Chopin Ballade recordings on YouTube will lead to his soloist performance of Franz Liszt’s Piano Concerto No. 2 in A major, S. 125, with the Brown University Orchestra on Saturday, October 17, 2026.
+For Lucas Sha ’27, what started as a fascination for Chopin Ballade recordings on YouTube will lead to his soloist performance of Franz Liszt’s Piano Concerto No. 2 in A major, S. 125, with the Brown University Orchestra on Saturday, October 17, 2026.
 
 The senior, concentrating in Mathematics and Computer Science, began learning piano at 11, imploring his parents to enroll him for lessons. Since then, he’s developed a deep appreciation for the Romantic Era, spearheaded by the likes of Liszt and Wagner. To ultimately perform the works of one of these giants warrants an exploration of human expressivity, which Sha readily accepts. 
 
@@ -19,7 +19,7 @@ The woodwinds open with an intimate chorale that the piano embeds itself within.
 
 Sha says he chose the concerto for two reasons: Liszt’s revolutionary influence as a pianist and as a composer. “He was the one who basically set the tradition of the virtuoso pianist-composer… we owe the existence of pianist-composers like Rachmaninoff who came to Liszt and this legacy that he created.”
 
-Like many symphonic poems, Liszt’s Piano Concerto No. 2 teases out as much human emotion as possible from every instrument in the ensemble to pull at our heartstrings. And the Bulgarian composer isn’t afraid to share the spotlight to do so.
+Like many symphonic poems, Liszt’s Piano Concerto No. 2 teases out as much human emotion as possible from every instrument in the ensemble to pull at our heartstrings. And the Hungarian composer isn’t afraid to share the spotlight to do so.
 
 “This psychological element of coordination is totally different… because at the end of the day, there is a much wider range of color and sound that the orchestra makes,” Sha says.
 
